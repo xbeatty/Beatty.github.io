@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Kalani Williams"
   avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Looking for things inside other things"
+  bio              : #"Looking for things inside other things"
   location         : "AMNH & Fordham University"
   email            :
   links:
