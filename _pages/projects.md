@@ -3,9 +3,9 @@ layout: splash
 permalink: /projects/
 hidden: true
 header:
-  image: /assets/images/splash_2.jpeg
+  #image: /assets/images/splash_2.jpeg
   #overlay_color: #"#5e616c"
-  #overlay_image: /assets/images/splash.jpeg
+  overlay_image: /assets/images/splash.jpeg
   #actions:
     #- label: "<i class='fas fa-download'></i> Install now"
       #url: "/docs/quick-start-guide/"
@@ -20,7 +20,7 @@ feature_row:
     url: "https://kalaniwilliams.github.io/"
     btn_class: "btn--info"
     btn_label: "Learn more"
-  - image_path: /assets/images/leeches.jpeg
+  - image_path: /assets/images/leech.jpeg
     alt: "leech iDNA"
     #title: "Leech iDNA"
     excerpt: "Leech iDNA for biodiversity surveys and forensic cases"
