@@ -12,7 +12,7 @@ header:
 title: "Research projects"
 #excerpt: >
   #Research projects<br />
-tagline: "Research projects"
+#tagline: "Research projects"
 feature_row:
   - image_path: /assets/images/sealy.jpeg
     alt: "marine mammal parasites"
