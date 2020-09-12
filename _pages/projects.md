@@ -18,6 +18,7 @@ feature_row:
     alt: "marine mammal parasites"
     #title: "Marine Mammal Parasites"
     excerpt: "Molecular diagnostics for marine mammal parasites"
+    image_caption: "Linelle Abueg 2019"
     url: "https://kalaniwilliams.github.io/"
     btn_class: "btn--info"
     btn_label: "Learn more"
