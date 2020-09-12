@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Projects"
+    url: https://kalaniwilliams.github.io/
+  - title: "Teaching"
+    url: https://kalaniwilliams.github.io/
+  - title: "Publications"
+    url: https://kalaniwilliams.github.io/
+  #- title: "Talks"
+    #url: /talks/
+  - title: "CV"
+    url: https://kalaniwilliams.github.io/
+  #- title: "Photography"
+    #url: /photography/
