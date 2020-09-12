@@ -14,7 +14,7 @@ header:
   #Research projects<br />
 #tagline: "Research projects"
 feature_row:
-  - image_path: /assets/images/sealy.jpeg
+  - image_path: /assets/images/seal.jpeg
     alt: "marine mammal parasites"
     #title: "Marine Mammal Parasites"
     excerpt: "Molecular diagnostics for marine mammal parasites"
