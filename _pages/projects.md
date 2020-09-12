@@ -20,7 +20,7 @@ feature_row:
     url: "https://kalaniwilliams.github.io/"
     btn_class: "btn--info"
     btn_label: "Learn more"
-  - image_path: /assets/images/medicinal_leeches.JPG
+  - image_path: /assets/images/leeches.jpeg
     alt: "leech iDNA"
     #title: "Leech iDNA"
     excerpt: "Leech iDNA for biodiversity surveys and forensic cases"
