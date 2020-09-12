@@ -3,7 +3,7 @@ layout: splash
 permalink: /projects/
 hidden: true
 header:
-  image: /assets/images/splash.jpeg
+  image: /assets/images/splash_2.jpeg
   #overlay_color: #"#5e616c"
   #overlay_image: /assets/images/splash.jpeg
   #actions:
