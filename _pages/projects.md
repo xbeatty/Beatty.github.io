@@ -3,13 +3,15 @@ layout: splash
 permalink: /projects/
 hidden: true
 header:
-  overlay_color: #"#5e616c"
-  overlay_image: /assets/images/splash.jpeg
+  image: /assets/images/splash.jpeg
+  #overlay_color: #"#5e616c"
+  #overlay_image: /assets/images/splash.jpeg
   #actions:
     #- label: "<i class='fas fa-download'></i> Install now"
       #url: "/docs/quick-start-guide/"
-excerpt: >
-  Research projects<br />
+#excerpt: >
+  #Research projects<br />
+tagline: "Research projects"
 feature_row:
   - image_path: /assets/images/sealy.jpeg
     alt: "marine mammal parasites"
