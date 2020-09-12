@@ -9,6 +9,7 @@ header:
   #actions:
     #- label: "<i class='fas fa-download'></i> Install now"
       #url: "/docs/quick-start-guide/"
+title: "Research projects"
 #excerpt: >
   #Research projects<br />
 tagline: "Research projects"
