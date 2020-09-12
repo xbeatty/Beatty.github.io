@@ -3,13 +3,13 @@ layout: splash
 permalink: /projects/
 hidden: true
 header:
-  #image: /assets/images/splash_2.jpeg
+  image: /assets/images/projects_header.jpeg
   #overlay_color: #"#5e616c"
-  overlay_image: /assets/images/splash_2.jpeg
+  #overlay_image: /assets/images/splash_2.jpeg
   #actions:
     #- label: "<i class='fas fa-download'></i> Install now"
       #url: "/docs/quick-start-guide/"
-title: "Research projects"
+#title: "Research projects"
 #excerpt: >
   #Research projects<br />
 #tagline: "Research projects"
