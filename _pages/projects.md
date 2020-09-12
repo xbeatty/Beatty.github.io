@@ -3,35 +3,34 @@ layout: splash
 permalink: /projects/
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  overlay_color: #"#5e616c"
+  overlay_image: /assets/images/splash.jpeg
+  #actions:
+    #- label: "<i class='fas fa-download'></i> Install now"
+      #url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.2">Latest release v4.20.2</a></small>
+  Research projects<br />
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/sealy.jpeg
+    alt: "marine mammal parasites"
+    #title: "Marine Mammal Parasites"
+    excerpt: "Molecular diagnostics for marine mammal parasites"
+    url: "https://kalaniwilliams.github.io/"
+    btn_class: "btn--info"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/medicinal_leeches.JPG
+    alt: "leech iDNA"
+    #title: "Leech iDNA"
+    excerpt: "Leech iDNA for biodiversity surveys and forensic cases"
+    url: "https://kalaniwilliams.github.io/"
+    btn_class: "btn--success"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/lion.jpeg
+    alt: "future projects"
+    #title: "Future Projects"
+    excerpt: "Charaterizing helminth and viral diversity in South African wildlife"
+    url: "https://kalaniwilliams.github.io/"
+    btn_class: "btn--warning"
     btn_label: "Learn more"      
 ---
 
