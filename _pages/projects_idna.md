@@ -12,7 +12,7 @@ header:
 title: "idna Projects"
 #excerpt: >
   #Research projects<br />
-#tagline: "iDNA Projects"   
+tagline: " "   
 
 ---
 
