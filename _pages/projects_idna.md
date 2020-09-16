@@ -16,6 +16,8 @@ tagline: "Using invertebrate-derived DNA for biodiversity surveys and forensic c
 author_profile: false
 read_time: true
 share: true
+classes: wide
+#toc: true
 
 ---
 
