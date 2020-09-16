@@ -9,10 +9,10 @@ header:
   #actions:
     #- label: "<i class='fas fa-download'></i> Install now"
       #url: "/docs/quick-start-guide/"
-title: "idna Projects"
+title: "iDNA Projects"
 #excerpt: >
   #Research projects<br />
-tagline: " . "   
+tagline: "Using invertebrate-derived DNA for biodiversity surveys and forensic cases"   
 
 ---
 
