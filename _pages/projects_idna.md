@@ -47,4 +47,5 @@ In October of 2018, Canada Border Services Agency (CBSA) at Pearson Internationa
 
 iDNA biodiversity survey results from Bangladesh, Cambodia, China, and Madagascar that harness next-generation sequencing metabarcoding methods will be coming soon!
 For now, check out our sampling map:
-<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1418px; height: 739px;'><object class='tableauViz' width='1418' height='739' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;kalaniwilliams' /><param name='name' value='MBCCSamplingMap&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+
+<iframe seamless frameborder="0" src="https://prod-useast-a.online.tableau.com/t/kalaniwilliams/views/MBCCSamplingMap/Sheet1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>
