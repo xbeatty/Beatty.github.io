@@ -26,7 +26,7 @@ feature_row:
     alt: "leech iDNA"
     #title: "Leech iDNA"
     excerpt: "Leech iDNA for biodiversity surveys and forensic cases"
-    url: "https://kalaniwilliams.github.io/"
+    url: "/projects_idna/"
     btn_class: "btn--success"
     btn_label: "Learn more"
   - image_path: /assets/images/lion.jpeg
