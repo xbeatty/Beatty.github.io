@@ -33,7 +33,9 @@ When 4,788 CITES-protected medicinal leeches were detained at Toronto's Pearson 
 
 ![pinpointing leech poaching origin based on iDNA](/assets/images/YYZ.gif)
 
-[Check out our publication!](https://doi.org/10.1007/s10344-020-01419-5)
+[Check out the publication!](https://doi.org/10.1007/s10344-020-01419-5)
+
+[**Caught red handed: iDNA points to wild source for CITES-protected contraband leeches**](https://doi.org/10.1007/s10344-020-01419-5)
 
 **Abstract**
 
