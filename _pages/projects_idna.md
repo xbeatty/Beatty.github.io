@@ -29,7 +29,7 @@ If leeches could be used to survey the biodiversity of a known region, why not u
 
 When 4,788 CITES-protected medicinal leeches were detained at Toronto's Pearson International Airport, we analyzed DNA of the blood the leeches had fed on (prior to their capture). Based on the geographic distribution of each species identified from the blood, we attempt to pinpoint where the leeches were poached.
 
-![pinpointing leech poaching origin based on iDNA](/assests/images/YYZ.gif)
+![pinpointing leech poaching origin based on iDNA](/assets/images/YYZ.gif)
 
 [Check out our publication on the case!](https://doi.org/10.1007/s10344-020-01419-5)
 
