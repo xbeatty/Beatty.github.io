@@ -13,11 +13,12 @@ title: "iDNA Projects"
 #excerpt: >
   #Research projects<br />
 tagline: "Using invertebrate-derived DNA for biodiversity surveys and forensic cases"   
-author_profile: false
+author_profile: true
 read_time: true
 share: true
 classes: wide
 #toc: true
+#toc_sticky: true
 
 ---
 
