@@ -6,7 +6,7 @@ KnitPost <- function(site.path='/kalaniwilliams.github.io/', overwriteAll=F, ove
   if(!'package:knitr' %in% search()) suppressWarnings(library(knitr))
 
   ## Blog-specific directories.  This will depend on how you organize your blog.
-  site.path <- "../" # directory of jekyll blog (including trailing slash)
+  site.path <- "/kalaniwilliams.github.io/" # directory of jekyll blog (including trailing slash)
   rmd.path <- paste0(site.path, "_Rmd") # directory where your Rmd-files reside (relative to base)
   fig.dir <- "assets/Rfig/" # directory to save figures
   posts.path <- paste0(site.path, "_posts") # directory for converted markdown files
