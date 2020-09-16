@@ -12,6 +12,7 @@ author_profile: false
 read_time: true
 share: true
 classes: wide
+float: left
 #toc: true
 #toc_sticky: true
 
