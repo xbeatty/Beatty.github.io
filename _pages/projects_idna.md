@@ -46,14 +46,8 @@ In October of 2018, Canada Border Services Agency (CBSA) at Pearson Internationa
 ### Coming soon: Metabarcoding iDNA for Biodiversity Surveys Across the Indo Pacific
 
 iDNA biodiversity survey results from Bangladesh, Cambodia, China, and Madagascar that harness next-generation sequencing metabarcoding methods will be coming soon!
-For now, check out our sampling map:
 
-<iframe seamless frameborder="0" src="https://prod-useast-a.online.tableau.com/t/kalaniwilliams/views/MBCCSamplingMap/Sheet1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>
+For now, check out our sampling map:
 
 <iframe seamless frameborder="0" src="/assets/html/BCCM_map.html" width = '650' height = '450' scrolling='yes' ></iframe>
 
-Testing R in Markdown
-
-```{r}
-1+1
-```
