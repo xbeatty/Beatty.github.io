@@ -9,10 +9,10 @@ header:
   #actions:
     #- label: "<i class='fas fa-download'></i> Install now"
       #url: "/docs/quick-start-guide/"
-#title: "Research projects"
+title: "idna Projects"
 #excerpt: >
   #Research projects<br />
-tagline: "iDNA Projects"   
+#tagline: "iDNA Projects"   
 
 ---
 
