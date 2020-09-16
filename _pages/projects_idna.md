@@ -50,6 +50,8 @@ For now, check out our sampling map:
 
 <iframe seamless frameborder="0" src="https://prod-useast-a.online.tableau.com/t/kalaniwilliams/views/MBCCSamplingMap/Sheet1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>
 
+<iframe seamless frameborder="0" src="/assets/html/BCCM_map.html" width = '650' height = '450' scrolling='yes' ></iframe>
+
 Testing R in Markdown
 
 ```{r}
