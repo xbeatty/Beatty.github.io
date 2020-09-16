@@ -26,6 +26,5 @@ classes: wide
 
 iDNA, or invertebrate-derived DNA, refers to DNA extracted from an invertebrate that is not the DNA belonging to the invertebrate itself. Typically this refers to DNA from the bloodmeal of an invertebrate, such as a mosquito, biting fly, or leech. In recent years, leeches have been promoted as a tool for conducting non-invasive biodiversity surveys.
 
-# Leeches solve their own mystery: 
-## how iDNA from contraband leeches may lead us to the region from which they were poached
+### Leeches solve their own mystery: how iDNA from contraband leeches may lead us to the region from which they were poached
 
