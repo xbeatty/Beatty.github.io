@@ -12,8 +12,8 @@ author_profile: false
 read_time: true
 share: true
 classes: wide
-#toc: true
-#toc_sticky: true
+toc: true
+toc_sticky: true
 
 ---
 
