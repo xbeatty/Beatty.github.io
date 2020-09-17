@@ -34,5 +34,8 @@ mmp_projects:
         url: /projects_mmp/#sea-lion-lungworm
       - title: "Seal Heartworm"
         url: /projects_mmp/#seal-heartworm
-  - title: "HGT"
-    url: /projects_mmp/#horizontal-gene-transfer-in-nematodes
+  - title: "Wolbachia Endosymbiont"
+    url: /projects_mmp/#wolbachia-an-endosymbiont-of-nematodes
+    children:
+      - title: "HGT"
+        url: /projects_mmp/#horizontal-gene-transfer-hgt
