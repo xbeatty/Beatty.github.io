@@ -24,3 +24,15 @@ idna_projects:
        url: /projects_idna/#idna-for-forensics
      - title: "iDNA for Biodiversity Surveys"
        url: /projects_idna/#idna-for-biodiversity-surveys
+
+# MMP projects sidebar
+mmp_projects:
+  - title: "Diagnostics"
+    url: /projects_mmp/#diagnostics
+    children:
+      - title: "Sea lion Lungworm"
+        url: /projects_mmp/#sea-lion-lungworm
+      - title: "Seal Heartworm"
+        url: /projects_mmp/#seal-heartworm
+  - title: "Horizontal Gene Transfer in Nematodes"
+    url: /projects_mmp/#horizontal-gene-transfer-in-nematodes
