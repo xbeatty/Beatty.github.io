@@ -14,8 +14,6 @@ share: true
 classes: wide
 sidebar:
   nav: "idna_projects"
-#toc: true
-#toc_sticky: true
 
 ---
 
