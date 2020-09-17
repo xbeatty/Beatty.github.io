@@ -1,6 +1,3 @@
-remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 ---
 layout: single
 permalink: /projects_mmp/
