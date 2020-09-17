@@ -13,7 +13,7 @@ read_time: true
 share: true
 classes: wide
 toc: true
-#toc_sticky: true
+toc_sticky: true
 
 ---
 
