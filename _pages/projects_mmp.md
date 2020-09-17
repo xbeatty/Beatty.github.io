@@ -6,7 +6,7 @@ hidden: true
 header:
   #image: /assets/images/projects_header.jpeg
   #overlay_color: #"#5e616c"
-  #overlay_image: /assets/images/medicinal_leeches.jpeg
+  overlay_image: /assets/images/sea_lions.jpeg
 title: "Marine Mammal Parasite Projects"
 tagline: "Molecular research and diagnostics of marine mammal nematodes"   
 author_profile: false
@@ -40,4 +40,32 @@ Diagnostic assays for marine mammal parasites can be used to diagnose animals in
 
 ### A qPCR assay for seal heartworm, *Acanthocheilonema spirocauda*, using blood
 
-# Horizontal Gene Transfer in Nematodes
+![Harbor seal](/assets/images/seal2.jpeg)
+
+<{% include figure image_path="/assets/images/seal2.jpeg" alt="Harbor seal" caption="Linelle Abueg 2019" %}>
+
+[Check out the publication!](https://doi.org/10.1016/j.ijppaw.2018.04.001)
+
+[**A novel quantitative real-time PCR diagnostic assay for seal heartworm** ***(Acanthocheilonema spirocauda)*** **provides evidence for possible infection in the grey seal** ***(Halichoerus grypus)***](https://doi.org/10.1016/j.ijppaw.2018.04.001)
+
+**Abstract**
+
+The distinct evolutionary pressures faced by Pinnipeds have likely resulted in strong coevolutionary ties to their parasites (Leidenberger et al., 2007). This study focuses on the phocid seal filarial heartworm species *Acanthocheilonema spirocauda*. *A. spirocauda* is known to infect a variety of phocid seals, but does not appear to be restricted to a single host species (Measures et al., 1997; Leidenberger et al., 2007; Lehnert et al., 2015). However, to date, seal heartworm has never been reported in grey seals (*Halichoerus grypus*) (Measures et al., 1997; Leidenberger et al., 2007; Lehnert et al., 2015). The proposed vector for seal heartworm is *Echinophthirius horridus*, the seal louse. Seal lice are known to parasitize a wide array of phocid seal species, including the grey seal. With the advent of climate change, disease burden is expected to increase across terrestrial and marine mammals (Harvell et al., 2002). Accordingly, increased prevalence of seal heartworm has recently been reported in harbor seals (*Phoca vitulina*) (Lehnert et al., 2015). Thus, the need for improved, rapid, and cost-effective diagnostics is urgent. Here we present the first *A. spirocauda*-specific rapid diagnostic test (a quantitative real-time PCR assay), based on a highly repetitive genomic DNA repeat identified using whole genome sequencing and subsequent bioinformatic analysis. The presence of an insect vector provides the opportunity to develop a multifunctional diagnostic tool that can be used not only to detect the parasite directly from blood or tissue specimens, but also as a molecular xenomonitoring (XM) tool that can be used to assess the epidemiological profile of the parasite by screening the arthropod vector. Using this assay, we provide evidence for the first reported case of seal heartworm in a grey seal.
+
+# *Wolbachia*: an Endosymbiont of Nematodes
+
+## Horizontal Gene Transfer (HGT)
+
+### Ancient HGT from *Wolbachia* in Seal Heartworm
+
+![Phylogeny showing *PBDG* pseudogene of *A. spirocauda* nesting within *Wolbachia PBGD*](/assets/images/A.spir_PBGD.jpeg)
+
+<{% include figure image_path="/assets/images/A.spir_PBGD.jpeg" alt="Phylogeny showing *PBDG* pseudogene of *A. spirocauda* nesting within *Wolbachia PBGD*" caption="Phylogeny showing *PBDG* pseudogene of *A. spirocauda* nesting within *Wolbachia PBGD*" %}>
+
+[Check out the publication!](https://doi.org/10.1645/15-872)
+
+[**Absence of the Filarial Endosymbiont Wolbachia in Seal Heartworm** ***(Acanthocheilonema spirocauda)*** **but Evidence of Ancient Lateral Gene Transfer**](https://doi.org/10.1645/15-872)
+
+**Abstract**
+
+The symbiotic relationship of *Wolbachia spp.* was first observed in insects and subsequently in many parasitic filarial nematodes. This bacterium is believed to provide metabolic and developmental assistance to filarial parasitic nematodes, although the exact nature of this relationship remains to be fully elucidated. While *Wolbachia* is present in most filarial nematodes in the family Onchocercidae, it is absent in several disparate species such as the human parasite *Loa loa*. All tested members of the genus *Acanthocheilonema*, such as *Acanthocheilonema viteae*, have been shown to lack *Wolbachia*. Consistent with this, we show that *Wolbachia* is absent from the seal heartworm (*Acanthocheilonema spirocauda*), but lateral gene transfer (LGT) of DNA sequences between *Wolbachia* and *A. spirocauda* has occurred, indicating a past evolutionary association. Seal heartworm is an important pathogen of phocid seals and understanding its basic biology is essential for conservation of the host. The findings presented here may allow for the development of future treatments or diagnostics for the disease and also aid in clarification of the complicated nematode–*Wolbachia* relationship.
