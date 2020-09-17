@@ -18,6 +18,7 @@ idna_projects:
   - title: "What is iDNA?"
     url: /projects_idna/#what-is-idna
   - title: "Projects"
+    url: /projects_idna/#projects
     children:
      - title: "iDNA for Forensics"
        url: /projects_idna/#idna-for-forensics
