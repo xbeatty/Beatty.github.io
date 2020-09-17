@@ -8,7 +8,7 @@ header:
   #overlay_color: #"#5e616c"
   overlay_image: /assets/images/sea_lions.jpeg
 title: "Marine Mammal Parasite Projects"
-tagline: "Molecular research and diagnostics of marine mammal nematodes"   
+#tagline: "Molecular research and diagnostics of marine mammal nematodes"   
 author_profile: false
 read_time: true
 share: true
@@ -42,8 +42,6 @@ Diagnostic assays for marine mammal parasites can be used to diagnose animals in
 
 ![Harbor seal](/assets/images/seal2.jpeg)
 
-<{% include figure image_path="/assets/images/seal2.jpeg" alt="Harbor seal" caption="Linelle Abueg 2019" %}>
-
 [Check out the publication!](https://doi.org/10.1016/j.ijppaw.2018.04.001)
 
 [**A novel quantitative real-time PCR diagnostic assay for seal heartworm** ***(Acanthocheilonema spirocauda)*** **provides evidence for possible infection in the grey seal** ***(Halichoerus grypus)***](https://doi.org/10.1016/j.ijppaw.2018.04.001)
@@ -59,8 +57,6 @@ The distinct evolutionary pressures faced by Pinnipeds have likely resulted in s
 ### Ancient HGT from *Wolbachia* in Seal Heartworm
 
 ![Phylogeny showing *PBDG* pseudogene of *A. spirocauda* nesting within *Wolbachia PBGD*](/assets/images/A.spir_PBGD.jpeg)
-
-<{% include figure image_path="/assets/images/A.spir_PBGD.jpeg" alt="Phylogeny showing *PBDG* pseudogene of *A. spirocauda* nesting within *Wolbachia PBGD*" caption="Phylogeny showing *PBDG* pseudogene of *A. spirocauda* nesting within *Wolbachia PBGD*" %}>
 
 [Check out the publication!](https://doi.org/10.1645/15-872)
 
