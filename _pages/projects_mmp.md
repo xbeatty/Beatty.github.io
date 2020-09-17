@@ -1,5 +1,6 @@
 ---
 layout: single
+minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 permalink: /projects_mmp/
 hidden: true
 header:
@@ -12,8 +13,8 @@ author_profile: false
 read_time: true
 share: true
 classes: wide
-#sidebar:
-  #nav: "mmp_projects"
+sidebar:
+  nav: "mmp_projects"
 
 ---
 
