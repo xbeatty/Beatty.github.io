@@ -33,7 +33,7 @@ feature_row:
     alt: "future projects"
     #title: "Future Projects"
     excerpt: "Charaterizing helminth and viral diversity in South African wildlife"
-    url: "https://kalaniwilliams.github.io/"
+    url: "/projects_sawp/"
     btn_class: "btn--warning"
     btn_label: "Learn more"      
 ---
