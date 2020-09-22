@@ -4,7 +4,7 @@ permalink: /
      
 hidden: true
 header:
-  image: /assets/images/fog_road.jpeg
+  image: /assets/images/header.jpeg
   #overlay_color: #"#5e616c"
   #overlay_image: /assets/images/fog_road.jpeg
 title: "  "
@@ -40,4 +40,10 @@ feature_row:
 # Research Projects
 
 {% include feature_row %}
+
+# Teaching
+
+# Publications
+
+# CV
 
