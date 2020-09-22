@@ -14,6 +14,7 @@ header:
 #excerpt: >
   #Research projects<br />
 #tagline: "Research projects"
+class: wide
 feature_row:
   - image_path: /assets/images/seal.jpeg
     alt: "marine mammal parasites"
