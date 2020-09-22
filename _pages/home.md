@@ -78,11 +78,11 @@ feature_row3:
     
 feature_row4:
   - image_path: /assets/images/KW_CV_092220.png
-  alt: "CV"
-  excerpt: "CV last updated 09/22/20"
-  url: "/cv/"
-  btn_class: "btn--primary"
-  btn_label: "View full"
+    alt: "CV"
+    excerpt: "CV last updated 09/22/20"
+    url: "/cv/"
+    btn_class: "btn--primary"
+    btn_label: "View full"
  
 ---
 
