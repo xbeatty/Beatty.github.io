@@ -37,7 +37,7 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-# Research Projects {/projects/}
+# Research Projects {#/projects/}
 
 {% include feature_row %}
 
