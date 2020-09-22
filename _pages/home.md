@@ -42,16 +42,6 @@ feature_row2:
     url: "https://doi.org/10.1007/s10344-020-01419-5"
     btn_class: "btn--primary"
     btn_label: "Go to paper"
-  -- image_path: /assets/images/Williams2020a.png
-    alt: "Williams2020a"
-    url: "https://doi.org/10.1016/j.ijppaw.2020.04.012"
-    btn_class: "btn--primary"
-    btn_label: "Go to paper"
-  - image_path: /assets/images/Fahmy2020.png
-    alt: "Fahmy2020"
-    url: "/"
-    btn_class: "btn--primary"
-    btn_label: "Coming soon"
     
 feature_row3:
   - image_path: /assets/images/Keroack2018.png
@@ -59,16 +49,6 @@ feature_row3:
     url: "https://doi.org/10.1016/j.ijppaw.2018.04.001"
     btn_class: "btn--primary"
     btn_label: "Go to paper"
-  -- image_path: /assets/images/Keroack2016.png
-    alt: "Keroack2016"
-    url: "https://doi.org/10.1645/15-872"
-    btn_class: "btn--primary"
-    btn_label: "Go to paper"
-  - image_path: /assets/images/Williams2014.png
-    alt: "Williams2014"
-    url: "https://garden.smith.edu/sites/default/files/newsletters/files/newsfall14.pdf"
-    btn_class: "btn--primary"
-    btn_label: "Go to newsletter"
  
 ---
 
@@ -79,5 +59,9 @@ feature_row3:
 # Teaching
 
 # Publications
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
 
 # CV
