@@ -49,6 +49,13 @@ feature_row3:
     url: "https://doi.org/10.1016/j.ijppaw.2018.04.001"
     btn_class: "btn--primary"
     btn_label: "Go to paper"
+    
+feature_row4:
+  - image_path: /assets/images/Keroack2018.png
+    alt: "Keroack2018"
+    url: "https://doi.org/10.1016/j.ijppaw.2018.04.001"
+    btn_class: "btn--primary"
+    btn_label: "Go to paper"
  
 ---
 
@@ -63,5 +70,7 @@ feature_row3:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="left" %}
 
 # CV
