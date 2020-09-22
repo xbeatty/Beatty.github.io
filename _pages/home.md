@@ -39,16 +39,19 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/Williams2020b.png
     alt: "Williams2020b"
+    excerpt: "Williams et al., 2020"
     url: "https://doi.org/10.1007/s10344-020-01419-5"
     btn_class: "btn--primary"
     btn_label: "Go to paper"
   - image_path: /assets/images/Williams2020a.png
     alt: "Williams2020a"
+    excerpt: "Williams et al., 2020"
     url: "https://doi.org/10.1016/j.ijppaw.2020.04.012"
     btn_class: "btn--primary"
     btn_label: "Go to paper"
   - image_path: /assets/images/Fahmy2020.png
     alt: "Fahmy2020"
+    excerpt: "Fahmy et al., 2020"
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Coming soon"
