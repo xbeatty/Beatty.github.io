@@ -13,7 +13,7 @@ author_profile: true
 classes: wide
 
 feature_row:
-  id= "projects"
+    id= "projects"
   - image_path: /assets/images/seal.jpeg
     alt: "marine mammal parasites"
     #title: "Marine Mammal Parasites"
