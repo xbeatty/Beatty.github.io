@@ -3,15 +3,17 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Teaching"
-    url: https://kalaniwilliams.github.io/
+    url: https://kalaniwilliams.github.io/#teaching
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=4LCDPcUAAAAJ
+    url: /publications/
   #- title: "Talks"
     #url: /talks/
   - title: "CV"
     url: /assets/pdfs/KW_CV_022920.pdf
   #- title: "Photography"
     #url: /photography/
+  #- title: "Games"
+    #url: /games/
     
 # iDNA projects sidebar
 idna_projects:
