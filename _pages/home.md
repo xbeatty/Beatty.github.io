@@ -15,6 +15,7 @@ header:
   #Research projects<br />
 #tagline: "Research projects"
 class: wide
+author_profile: true
 feature_row:
   - image_path: /assets/images/seal.jpeg
     alt: "marine mammal parasites"
