@@ -46,4 +46,3 @@ feature_row:
 # Publications
 
 # CV
-
