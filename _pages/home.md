@@ -59,16 +59,22 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/Keroack2018.png
     alt: "Keroack2018"
+    excerpt: "Keroack et al., 2018"
     url: "https://doi.org/10.1016/j.ijppaw.2018.04.001"
     btn_class: "btn--primary"
     btn_label: "Go to paper"
-    
-feature_row4:
-  - image_path: /assets/images/Keroack2018.png
-    alt: "Keroack2018"
-    url: "https://doi.org/10.1016/j.ijppaw.2018.04.001"
+  - image_path: /assets/images/Keroack2016.png
+    alt: "Keroack2016"
+    excerpt: "Keroack et al., 2016"
+    url: "https://doi.org/10.1645/15-872"
     btn_class: "btn--primary"
     btn_label: "Go to paper"
+  - image_path: /assets/images/Williams2014.png
+    alt: "Williams2014"
+    excerpt: "Williams et al., 2014"
+    url: "https://garden.smith.edu/sites/default/files/newsletters/files/newsfall14.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Go to newsletter"
  
 ---
 
@@ -84,9 +90,7 @@ Text
 
 {% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row3" %}
 
 # CV
 
