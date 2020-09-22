@@ -16,9 +16,9 @@ classes: wide
 
 ---
 
-# Laboratory Instructor for the New England Biolabs Molecular Biology Summer Workshop
+## Laboratory Instructor for the New England Biolabs Molecular Biology Summer Workshop
 
-# Undergraduate Laboratory Instruction and Teaching Assistantships
+## Undergraduate Laboratory Instruction and Teaching Assistantships
 
 Aside from working as a lab assistant and lab instructor for the New England Biolabs Molecular Biology Summer Workshop since 2013, I have also been a teaching assistant or instructor for the following courses.
 
