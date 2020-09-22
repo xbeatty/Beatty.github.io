@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /projects/
+permalink: /publications/
      
 hidden: true
 header:
