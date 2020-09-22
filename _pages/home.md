@@ -75,6 +75,14 @@ feature_row3:
     url: "https://garden.smith.edu/sites/default/files/newsletters/files/newsfall14.pdf"
     btn_class: "btn--primary"
     btn_label: "Go to newsletter"
+    
+feature_row4:
+  - image_path: /assets/images/KW_CV_092220.png
+  alt: "CV"
+  excerpt: "CV last updated 09/22/20"
+  url: "/cv/"
+  btn_class: "btn--primary"
+  btn_label: "View full"
  
 ---
 
@@ -91,4 +99,6 @@ feature_row3:
 {% include feature_row id="feature_row3" %}
 
 # CV
+
+{% include feature_row id="feature_row4" type= "left" %}
 
