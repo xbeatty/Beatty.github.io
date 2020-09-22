@@ -36,7 +36,7 @@ feature_row:
     btn_class: "btn--warning"
     btn_label: "Learn more"
     
-feature_rowpapers1:
+feature_row2:
   - image_path: /assets/images/Williams2020b.png
     alt: "Williams2020b"
     url: "https://doi.org/10.1007/s10344-020-01419-5"
@@ -53,7 +53,7 @@ feature_rowpapers1:
     btn_class: "btn--primary"
     btn_label: "Coming soon"
     
-feature_rowpapers2:
+feature_row3:
   - image_path: /assets/images/Keroack2018.png
     alt: "Keroack2018"
     url: "https://doi.org/10.1016/j.ijppaw.2018.04.001"
@@ -80,8 +80,8 @@ feature_rowpapers2:
 
 # Publications
 
-{% include feature_row id="feature_rowpapers1" %}
+{% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_rowpapers2" %}
+{% include feature_row id="feature_row3" %}
 
 # CV
