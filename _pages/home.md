@@ -14,3 +14,17 @@ classes: wide
 
 ---
 
+## Leech iDNA
+![leech](/assets/images/leech.jpeg)
+Leech iDNA for biodiversity surveys and forensic cases
+[Learn more](/projects_idna/){: .btn .btn--success}
+
+## Marine Mammal Parasites
+![seal](/assets/images/seal.jpeg)
+Molecular diagnostics for marine mammal parasites
+[Learn more](/projects_mmp/){: .btn .btn--info}
+
+## South African Wildlife Pathogens
+![lion](/assets/images/lion.jpeg)
+Charaterizing helminth and viral diversity in South African wildlife
+[Learn more](/){: .btn .btn--warning}
