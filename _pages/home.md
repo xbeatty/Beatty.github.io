@@ -65,6 +65,8 @@ feature_row4:
 
 # Teaching
 
+Text
+
 # Publications
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -74,3 +76,5 @@ feature_row4:
 {% include feature_row id="feature_row4" type="left" %}
 
 # CV
+
+Text
