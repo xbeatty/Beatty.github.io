@@ -37,8 +37,7 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-# Research Projects
+# Research Projects {/projects/}
 
 {% include feature_row %}
 
-[#Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
