@@ -52,7 +52,7 @@ feature_row2:
   - image_path: /assets/images/Fahmy2020.png
     alt: "Fahmy2020"
     excerpt: "Fahmy et al., 2020"
-    url: "/"
+    url: "/#publications"
     btn_class: "btn--primary"
     btn_label: "Coming soon"
     
@@ -84,8 +84,6 @@ feature_row3:
 
 # Teaching
 
-Text
-
 # Publications
 
 {% include feature_row id="feature_row2" %}
@@ -94,4 +92,3 @@ Text
 
 # CV
 
-Text
