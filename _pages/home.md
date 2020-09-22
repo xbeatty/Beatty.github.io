@@ -39,7 +39,5 @@ feature_row:
 
 # Research Projects
 
-[Research Projects](/projects/)
-
 {% include feature_row %}
 
