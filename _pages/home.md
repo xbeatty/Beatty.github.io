@@ -40,3 +40,5 @@ feature_row:
 # Research Projects
 
 {% include feature_row %}
+
+[#Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
