@@ -34,7 +34,42 @@ feature_row:
     excerpt: "Charaterizing helminth and viral diversity in South African wildlife"
     url: "https://kalaniwilliams.github.io/"
     btn_class: "btn--warning"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
+    
+feature_rowpapers1:
+  - image_path: /assets/images/Williams2020b.png
+    alt: "Williams2020b"
+    url: "https://doi.org/10.1007/s10344-020-01419-5"
+    btn_class: "btn--primary"
+    btn_label: "Go to paper"
+  -- image_path: /assets/images/Williams2020a.png
+    alt: "Williams2020a"
+    url: "https://doi.org/10.1016/j.ijppaw.2020.04.012"
+    btn_class: "btn--primary"
+    btn_label: "Go to paper"
+  - image_path: /assets/images/Fahmy2020.png
+    alt: "Fahmy2020"
+    url: "/"
+    btn_class: "btn--primary"
+    btn_label: "Coming soon"
+    
+feature_rowpapers2:
+  - image_path: /assets/images/Keroack2018.png
+    alt: "Keroack2018"
+    url: "https://doi.org/10.1016/j.ijppaw.2018.04.001"
+    btn_class: "btn--primary"
+    btn_label: "Go to paper"
+  -- image_path: /assets/images/Keroack2016.png
+    alt: "Keroack2016"
+    url: "https://doi.org/10.1645/15-872"
+    btn_class: "btn--primary"
+    btn_label: "Go to paper"
+  - image_path: /assets/images/Williams2014.png
+    alt: "Williams2014"
+    url: "https://garden.smith.edu/sites/default/files/newsletters/files/newsfall14.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Go to newsletter"
+ 
 ---
 
 # Research Projects
@@ -44,5 +79,9 @@ feature_row:
 # Teaching
 
 # Publications
+
+{% include feature_row id="feature_rowpapers1" %}
+
+{% include feature_row id="feature_rowpapers2" %}
 
 # CV
