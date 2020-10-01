@@ -22,7 +22,7 @@ feature_row:
 
 ---
 
-### Laboratory Instructor for the New England Biolabs Molecular Biology Summer Workshop
+### New England Biolabs Molecular Biology Summer Workshop
 
 {% include feature_row type= "right" %}
 
