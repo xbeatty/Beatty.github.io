@@ -5,7 +5,7 @@ hidden: true
 header:
   #image: /assets/images/projects_header.jpeg
   #overlay_image: /assets/images/medicinal_leeches.jpeg
-#title: "iDNA Projects"
+title: "Teaching"
 #tagline: "Using invertebrate-derived DNA for biodiversity surveys and forensic cases"   
 author_profile: true
 read_time: false
@@ -22,7 +22,7 @@ feature_row:
 
 ---
 
-# Teaching
+# Teaching (test)
 
 ### New England Biolabs Molecular Biology Summer Workshop
 
