@@ -41,7 +41,7 @@ feature_row2:
     alt: "NEB Molecular Biology Summer Workshop"
     excerpt: "I've been a lab instructor for the NEB Molecular Biology Summerworkshop since 2013. If you're interested in learning hands on molecular biology in two weeks, check it out!"
     url: "https://www.neb.com/promoting-science-education/molecular-biology-summer-workshops"
-    btn_class: "btn--warning"
+    btn_class: "btn--primary"
     btn_label: "Learn more"
     
 feature_row3:
@@ -49,7 +49,7 @@ feature_row3:
     alt: "Teaching in classroom"
     excerpt: "At Fordham University and Smith College I have been a teaching assistant and lab instructor for several courses."
     url: "/teaching/#undergraduate-laboratory-instruction-and-teaching-assistantships"
-    btn_class: "btn--warning"
+    btn_class: "btn--primary"
     btn_label: "Learn more"
     
 feature_row4:
