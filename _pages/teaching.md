@@ -40,3 +40,5 @@ Aside from working for the [New England Biolabs Molecular Biology Summer Worksho
 - 2019 Teaching Assistant, BISC 3142 Human Physiology Lab, Fordham University 
 - 2018 Teaching Assistant, BISC 1413 Introductory Biology Lab I, Fordham University 
 - 2016 Teaching Assistant, BIO 333 Molecular Biology of Eukaryotes, Smith College
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREZEVrw9cG3kw0mUVNA_csI1VAmiErqzwTrz89XmCuhmy1_6O_Kdy3ZOGvnVRCzkISNY6YG6hk5yos/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
