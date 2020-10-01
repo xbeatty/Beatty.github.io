@@ -8,6 +8,8 @@ title: "Talks"
 #excerpt: >
   #Research projects<br />
 #tagline: "Research projects"
+toc: true
+toc_sticky: true
 
 ---
 
