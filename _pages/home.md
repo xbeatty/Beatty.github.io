@@ -37,6 +37,22 @@ feature_row:
     btn_label: "Learn more"
     
 feature_row2:
+  - image_path: /assets/images/NEB.jpeg
+    alt: "NEB Molecular Biology Summer Workshop"
+    excerpt: "I've been a lab instructor for the NEB Molecular Biology Summerworkshop since 2013. If you're interested in learning hands on molecular biology in two weeks, check it out!"
+    url: "https://www.neb.com/promoting-science-education/molecular-biology-summer-workshops"
+    btn_class: "btn--warning"
+    btn_label: "Learn more"
+    
+feature_row3:
+  - image_path: /assets/images/teaching.jpeg
+    alt: "Teaching in classroom"
+    excerpt: "At Fordham University and Smith College I have been a teaching assistant and lab instructor for several courses."
+    url: "/teaching/#undergraduate-laboratory-instruction-and-teaching-assistantships"
+    btn_class: "btn--warning"
+    btn_label: "Learn more"
+    
+feature_row4:
   - image_path: /assets/images/Williams2020b.png
     alt: "Williams2020b"
     excerpt: "Williams et al., 2020"
@@ -56,7 +72,7 @@ feature_row2:
     btn_class: "btn--primary"
     btn_label: "Coming soon"
     
-feature_row3:
+feature_row5:
   - image_path: /assets/images/Keroack2018.png
     alt: "Keroack2018"
     excerpt: "Keroack et al., 2018"
@@ -76,7 +92,7 @@ feature_row3:
     btn_class: "btn--primary"
     btn_label: "Go to newsletter"
     
-feature_row4:
+feature_row6:
   - image_path: /assets/images/KW_CV_092220.png
     alt: "CV"
     excerpt: "CV last updated 09/22/20"
@@ -94,13 +110,17 @@ Currently a member of the [Hekkala Lab](https://hekkalalab.wordpress.com/people/
 
 # Teaching
 
+{% include feature_row id="feature_row2" type= "left" %}
+
+{% include feature_row id="feature_row3" type= "left" %}
+
 # Publications
 
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row4" %}
 
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row5" %}
 
 # CV
 
-{% include feature_row id="feature_row4" type= "left" %}
+{% include feature_row id="feature_row6" type= "left" %}
 
