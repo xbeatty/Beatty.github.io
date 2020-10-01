@@ -22,8 +22,6 @@ feature_row:
 
 ---
 
-# Teaching (test)
-
 ### New England Biolabs Molecular Biology Summer Workshop
 
 {% include feature_row type= "right" %}
