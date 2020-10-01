@@ -15,18 +15,18 @@ classes: wide
 feature_row:
   - image_path: /assets/images/NEB.jpeg
     alt: "NEB Molecular Biology Summer Workshop"
-    excerpt: "I've been a lab instructor for the New England Biolabs Molecular Biology Summerworkshop since 2013. If you're interested in learning hands on molecular biology in two weeks, check it out!"
+    excerpt: "I've been a lab instructor for the NEB Molecular Biology Summerworkshop since 2013. If you're interested in learning hands on molecular biology in two weeks, check it out!"
     url: "https://www.neb.com/promoting-science-education/molecular-biology-summer-workshops"
     btn_class: "btn--warninng"
     btn_label: "Learn more"
 
 ---
 
-## Laboratory Instructor for the New England Biolabs Molecular Biology Summer Workshop
+### Laboratory Instructor for the New England Biolabs Molecular Biology Summer Workshop
 
 {% include feature_row type= "right" %}
 
-## Undergraduate Laboratory Instruction and Teaching Assistantships
+### Undergraduate Laboratory Instruction and Teaching Assistantships
 
 Aside from working for the [New England Biolabs Molecular Biology Summer Workshop](https://www.neb.com/promoting-science-education/molecular-biology-summer-workshops), I have also had the privilege to be a teaching assistant and laboratory instructor for the following undergraduate courses:
 
