@@ -21,7 +21,7 @@ author_profile: false
 
 - Topic: iDNA
 - Audience: General public
-- Venue: [Biology on Tap](https://www.instagram.com/biologyontap/?hl=en) ([The Way Station](https://www.thewaystationbk.com/)
+- Venue: [Biology on Tap](https://www.instagram.com/biologyontap/?hl=en) ([The Way Station](https://www.thewaystationbk.com/))
 - Given: June 2019
 
 ### Different Coasts and Different Hosts: Is the seal lungworm *Otostrongylus circumlitus* becoming two species?
