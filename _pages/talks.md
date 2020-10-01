@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /talks/
 hidden: true
 header:
@@ -10,9 +10,8 @@ title: "Talks"
   #Research projects<br />
 #tagline: "Research projects"
 author_profile: false
-classes: wide
-toc: true
-toc_sticky: true
+#classes: wide
+#add side bar nav and make it single or leave it as splash
 
 ---
  
