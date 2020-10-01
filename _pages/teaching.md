@@ -24,7 +24,7 @@ feature_row:
 
 ### New England Biolabs Molecular Biology Summer Workshop
 
-{% include feature_row type= "right" %}
+{% include feature_row type= "left" %}
 
 ### Undergraduate Laboratory Instruction and Teaching Assistantships
 
