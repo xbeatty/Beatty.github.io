@@ -4,14 +4,14 @@ permalink: /talks/
 hidden: true
 header:
   #image: /assets/images/projects_header.jpeg
-#title: "Research projects"
+title: "Talks"
 #excerpt: >
   #Research projects<br />
 #tagline: "Research projects"
 
 ---
 
-### Different Coasts and Different Hosts: Is the seal lungworm Otostrongylus circumlitus becoming two species?
+### Different Coasts and Different Hosts: Is the seal lungworm *Otostrongylus circumlitus* becoming two species?
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREZEVrw9cG3kw0mUVNA_csI1VAmiErqzwTrz89XmCuhmy1_6O_Kdy3ZOGvnVRCzkISNY6YG6hk5yos/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
