@@ -3,7 +3,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Teaching"
-    url: https://kalaniwilliams.github.io/#teaching
+    url: /teaching/
   - title: "Publications"
     url: /publications/
   #- title: "Talks"
