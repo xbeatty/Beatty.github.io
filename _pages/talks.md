@@ -15,14 +15,14 @@ author_profile: false
 
 ---
  
-### Fieldwork That Sucks (Literally)
+### Caught red handed: iDNA points to wild source of contraband leeches
 
 
 
 - Topic: iDNA
-- Audience: General public
-- Venue: [Biology on Tap](https://www.instagram.com/biologyontap/?hl=en) ([The Way Station](https://www.thewaystationbk.com/))
-- Given: June 2019
+- Audience: Scientists
+- Venue: Conference (International Biogeography Society)
+- Given: Post-poned due to COVID-19
 
 ### Different Coasts and Different Hosts: Is the seal lungworm *Otostrongylus circumlitus* becoming two species?
 
@@ -38,6 +38,33 @@ author_profile: false
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHstOW7bMbqtC2GFOblyVyPX70fN6OFVKQwzfRWO0RNFXB-ry14yrmTz2RazcwtLO-UGhxP_zDaGUz/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 - Topic: Hisotry of natural history
-- Audience: Art history students
+- Audience: Undergraduate art history students
 - Venue: Undergraduate seminar on bestiaries (Smith College)
 - Given: December 2017
+
+### Fieldwork That Sucks (Literally)
+
+
+
+- Topic: iDNA
+- Audience: General public
+- Venue: [Biology on Tap](https://www.instagram.com/biologyontap/?hl=en) ([The Way Station](https://www.thewaystationbk.com/))
+- Given: June 2019
+
+### Sequence Alignment
+
+
+
+- Topic: Bioinformatics
+- Audience: Undergraduate biology students
+- Venue: Ecology Methods class (Fordham University)
+- Given: March 2020
+
+### How North America Gained and Lost Giant Sloths: And other stories of the formation of The Isthmus of Panama
+
+
+
+- Topic: Evolution
+- Audience: General public
+- Venue: Smith College Alumnae Trip (Passage Through the Panama Canal and Costa Rica)
+- Given: February 2019
