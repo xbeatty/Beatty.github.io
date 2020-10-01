@@ -47,7 +47,7 @@ feature_row2:
     btn_label: "Go to paper"
   - image_path: /assets/images/Williams2014.png
     alt: "Williams2014"
-    excerpt: "Williams et al., 2014"
+    excerpt: "Williams, 2014"
     url: "https://garden.smith.edu/sites/default/files/newsletters/files/newsfall14.pdf"
     btn_class: "btn--primary"
     btn_label: "Go to newsletter"
