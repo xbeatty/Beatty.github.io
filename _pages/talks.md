@@ -55,7 +55,7 @@ author_profile: false
 
 ### Sequence Alignment
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgvKSkojbq1EvajZrclQu9VgoQTbUJHtKeIGMbGIrGRl1ho64emEYxCATszgA1eY9FnuGwVsAG50Zb/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 - Topic: Bioinformatics
 - Audience: Undergraduate biology students
