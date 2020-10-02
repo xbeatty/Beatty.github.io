@@ -37,6 +37,46 @@ feature_row:
     btn_label: "Learn more"
     
 feature_row2:
+  - image_path: /assets/images/WSCL_ppt.png
+    alt: "map"
+    excerpt: "Caught red handed: iDNA points to wild source of contraband leeches"
+    url: "/talks/#caught-red-handed-idna-points-to-wild-source-of-contraband-leeches"
+    btn_class: "btn--danger"
+    btn_label: "Take a look"
+  - image_path: /assets/images/DCDH_ppt.png
+    alt: "data"
+    excerpt: "Different Coasts and Different Hosts: Is the seal lungworm *Otostrongylus circumlitus* becoming two species?"
+    url: "/talks/#different-coasts-and-different-hosts-is-the-seal-lungworm-otostrongylus-circumlitus-becoming-two-species"
+    btn_class: "btn--danger"
+    btn_label: "Take a look"
+  - image_path: /assets/images/VVV_ppt.png
+    alt: "bestiary parasites"
+    excerpt: "*Verme* versus Vermiform: Understanding of worms and parasites through history"
+    url: "/talks/#verme-versus-vermiform-understanding-of-worms-and-parasites-through-history"
+    btn_class: "btn--danger"
+    btn_label: "Take a look"
+    
+feature_row3:
+  - image_path: /assets/images/FWTS_ppt.png
+    alt: "map"
+    excerpt: "Fieldwork That Sucks (Literally)"
+    url: "/talks/#fieldwork-that-sucks-literally"
+    btn_class: "btn--success"
+    btn_label: "Take a look"
+  - image_path: /assets/images/SA_ppt.png
+    alt: "exercise"
+    excerpt: "Sequence Alignment"
+    url: "/talks/#sequence-alignment"
+    btn_class: "btn--success"
+    btn_label: "Take a look"
+  - image_path: /assets/images/NAGS_ppt.png
+    alt: "illustration"
+    excerpt: "How North America Gained and Lost Giant Sloths: And other stories of the formation of The Isthmus of Panama"
+    url: "/talks/#how-north-america-gained-and-lost-giant-sloths-and-other-stories-of-the-formation-of-the-isthmus-of-panama"
+    btn_class: "btn--success"
+    btn_label: "Take a look"
+    
+feature_row4:
   - image_path: /assets/images/NEB.jpeg
     alt: "NEB Molecular Biology Summer Workshop"
     excerpt: "I've been a lab instructor for the NEB Molecular Biology Summer Workshop since 2013. If you're interested in learning hands on molecular biology in two weeks, check it out!"
@@ -44,7 +84,7 @@ feature_row2:
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
-feature_row3:
+feature_row5:
   - image_path: /assets/images/teaching.jpeg
     alt: "Teaching in classroom"
     excerpt: "At Fordham University and Smith College I have been a teaching assistant and lab instructor for several courses."
@@ -52,7 +92,7 @@ feature_row3:
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
-feature_row4:
+feature_row6:
   - image_path: /assets/images/Williams2020b.png
     alt: "Williams2020b"
     excerpt: "Williams et al., 2020"
@@ -72,7 +112,7 @@ feature_row4:
     btn_class: "btn--primary"
     btn_label: "Coming soon"
     
-feature_row5:
+feature_row7:
   - image_path: /assets/images/Keroack2018.png
     alt: "Keroack2018"
     excerpt: "Keroack et al., 2018"
@@ -92,7 +132,7 @@ feature_row5:
     btn_class: "btn--primary"
     btn_label: "Go to newsletter"
     
-feature_row6:
+feature_row8:
   - image_path: /assets/images/KW_CV_092220.png
     alt: "CV"
     excerpt: "CV last updated 09/22/20"
@@ -108,19 +148,25 @@ Currently a member of the [Hekkala Lab](https://hekkalalab.wordpress.com/people/
 
 {% include feature_row %}
 
+# Selected Talks and Lectures
+
+{% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}
+
 # Teaching
 
-{% include feature_row id="feature_row2" type= "left" %}
+{% include feature_row id="feature_row4" type= "left" %}
 
-{% include feature_row id="feature_row3" type= "left" %}
+{% include feature_row id="feature_row5" type= "left" %}
 
 # Publications
 
-{% include feature_row id="feature_row4" %}
+{% include feature_row id="feature_row6" %}
 
-{% include feature_row id="feature_row5" %}
+{% include feature_row id="feature_row7" %}
 
 # CV
 
-{% include feature_row id="feature_row6" type= "left" %}
+{% include feature_row id="feature_row8" type= "left" %}
 
