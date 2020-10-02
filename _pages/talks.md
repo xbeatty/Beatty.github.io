@@ -7,6 +7,7 @@ header:
 title: "Selected Talks and Lectures"
 #tagline: ""
 author_profile: false
+read_time: true
 classes: wide
 sidebar:
   nav: "talks"
