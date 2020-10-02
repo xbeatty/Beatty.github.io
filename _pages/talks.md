@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_image: /assets/images/headers/talks_single-overlay.jpeg
 title: "Selected Talks and Lectures"
-tagline: "  .'
+tagline: "                        '
 
 
 "
