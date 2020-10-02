@@ -44,15 +44,18 @@ mmp_projects:
         
 # Talks sidebar
 talks:
-  - title: "iDNA for Forensics"
-    url: /talks/#caught-red-handed-idna-points-to-wild-source-of-contraband-leeches
-  - title: "Marine Mammal Parasite Evolution"
-    url: /talks/#different-coasts-and-different-hosts-is-the-seal-lungworm-otostrongylus-circumlitus-becoming-two-species
-  - title: "Art History of Parasites"
-    url: /talks/#verme-versus-vermiform-understanding-of-worms-and-parasites-through-history
-  - title: "iDNA for Biodiversity Surveys"
-    url: /talks/#fieldwork-that-sucks-literally
-  - title: "Bioinformatics: Sequence Alignment"
-    url: /talks/#sequence-alignment
-  - title: "The Isthmus of Panama and Mammalian Evolution"
-    url: /talks/#how-north-america-gained-and-lost-giant-sloths-and-other-stories-of-the-formation-of-the-isthmus-of-panama
+  - title: "Selected Talks"
+    url: /talks/#selected-talks-and-lectures
+    children:
+      - title: "iDNA for Forensics"
+        url: /talks/#caught-red-handed-idna-points-to-wild-source-of-contraband-leeches
+      - title: "Marine Mammal Parasite Evolution"
+        url: /talks/#different-coasts-and-different-hosts-is-the-seal-lungworm-otostrongylus-circumlitus-becoming-two-species
+      - title: "Art History of Parasites"
+        url: /talks/#verme-versus-vermiform-understanding-of-worms-and-parasites-through-history
+      - title: "iDNA for Biodiversity Surveys"
+        url: /talks/#fieldwork-that-sucks-literally
+      - title: "Bioinformatics: Sequence Alignment"
+        url: /talks/#sequence-alignment
+      - title: "The Isthmus of Panama and Mammalian Evolution"
+        url: /talks/#how-north-america-gained-and-lost-giant-sloths-and-other-stories-of-the-formation-of-the-isthmus-of-panama
