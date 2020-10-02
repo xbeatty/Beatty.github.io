@@ -4,7 +4,7 @@ permalink: /talks/
 hidden: true
 header:
   #overlay_image: /assets/images/sea_lions.jpeg
-#title: "Talks"
+title: "Talks"
 #tagline: "Research projects"
 author_profile: false
 classes: wide
