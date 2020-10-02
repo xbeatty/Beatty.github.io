@@ -3,12 +3,11 @@ layout: single
 permalink: /teaching/
 hidden: true
 header:
-  #image: /assets/images/projects_header.jpeg
-  #overlay_image: /assets/images/medicinal_leeches.jpeg
+  overlay_image: /assets/images/headers/teaching_single-overlay.jpeg
 title: "Teaching"
-#tagline: "Using invertebrate-derived DNA for biodiversity surveys and forensic cases"   
+#tagline: ""   
 author_profile: true
-read_time: false
+read_time: true
 share: false
 classes: wide
 
