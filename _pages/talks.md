@@ -61,12 +61,14 @@ author_profile: false
 - Audience: Undergraduate biology students
 - Venue: Ecology Methods class (Fordham University)
 - Given: March 2020
+Note that some exercises for this lecture are demonstrated on a whiteboard, not shown in the powerpoint.
 
 ### How North America Gained and Lost Giant Sloths: And other stories of the formation of The Isthmus of Panama
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPrFQ4Hzf0L8JPAWwKKjnAIlPskjPcEIXdmLSsKad0SI0EVuPnrVzDTFoKZY-099MECq8PJ5kGuwv5/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 - Topic: Evolution
 - Audience: General public
 - Venue: [Smith College Alumnae Trip](https://www.smith.edu/about-smith/alumnae-relations/smith-travel) (Passage Through the Panama Canal and Costa Rica)
 - Given: February 2019
+All art (unless otherwise noted) is by Peter Schouten.
