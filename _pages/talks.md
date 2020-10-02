@@ -19,11 +19,11 @@ author_profile: false
  
 ### Caught red handed: iDNA points to wild source of contraband leeches
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRagP8tZNwxgH0c--e66YaAezF-ey3TFo82HGsWwsT9fI9DEVMJ8bxa2YfmEV5rBMLW_76w-pB5oS68/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 - Topic: iDNA
 - Audience: Scientists
-- Venue: Conference (International Biogeography Society)
+- Venue: Conference ([International Biogeography Society](https://www.biogeography.org/))
 - Given: Post-poned due to COVID-19
 
 ### Different Coasts and Different Hosts: Is the seal lungworm *Otostrongylus circumlitus* becoming two species?
@@ -32,7 +32,7 @@ author_profile: false
 
 - Topic: Marine mammal parasites
 - Audience: Scientists
-- Venue: Honors Thesis Defense (Smith College)
+- Venue: [Honors Thesis Defense](https://scholarworks.smith.edu/theses/2074/) (Smith College)
 - Given: May 2018
 
 ### *Verme* versus Vermiform: Understanding of worms and parasites through history
@@ -68,5 +68,5 @@ author_profile: false
 
 - Topic: Evolution
 - Audience: General public
-- Venue: Smith College Alumnae Trip (Passage Through the Panama Canal and Costa Rica)
+- Venue: [Smith College Alumnae Trip](https://www.smith.edu/about-smith/alumnae-relations/smith-travel) (Passage Through the Panama Canal and Costa Rica)
 - Given: February 2019
