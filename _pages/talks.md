@@ -1,17 +1,15 @@
 ---
-layout: splash
+layout: single
 permalink: /talks/
 hidden: true
 header:
-  #image: /assets/images/projects_header.jpeg
   #overlay_image: /assets/images/sea_lions.jpeg
 title: "Talks"
-#excerpt: >
-  #Research projects<br />
 #tagline: "Research projects"
 author_profile: false
 classes: wide
-#add side bar nav and make it single or leave it as splash
+sidebar:
+  nav: "talks"
 
 ---
 
