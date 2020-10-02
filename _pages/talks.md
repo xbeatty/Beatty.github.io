@@ -3,9 +3,9 @@ layout: single
 permalink: /talks/
 hidden: true
 header:
-  #overlay_image: /assets/images/sea_lions.jpeg
-title: "Talks"
-#tagline: "Research projects"
+  overlay_image: /assets/images/headers/talks_single-overlay.jpeg
+title: "Selected Talks and Lectures"
+#tagline: ""
 author_profile: false
 classes: wide
 sidebar:
