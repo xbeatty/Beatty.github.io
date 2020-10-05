@@ -26,7 +26,7 @@ sidebar:
 - Topic: iDNA
 - Audience: Scientists
 - Venue: Conference ([International Biogeography Society](https://www.biogeography.org/))
-- Given: Post-poned due to COVID-19
+- Given: Postponed due to COVID-19
 
 ### Different Coasts and Different Hosts: Is the seal lungworm *Otostrongylus circumlitus* becoming two species?
 
@@ -41,7 +41,7 @@ sidebar:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHstOW7bMbqtC2GFOblyVyPX70fN6OFVKQwzfRWO0RNFXB-ry14yrmTz2RazcwtLO-UGhxP_zDaGUz/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-- Topic: Hisotry of natural history
+- Topic: History of natural history
 - Audience: Undergraduate art history students
 - Venue: Undergraduate seminar on bestiaries (Smith College)
 - Given: December 2017
