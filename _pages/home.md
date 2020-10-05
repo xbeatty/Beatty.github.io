@@ -50,7 +50,7 @@ feature_row2:
     btn_label: "Take a look"
   - image_path: /assets/images/VVV_ppt.png
     alt: "bestiary parasites"
-    excerpt: "Understanding of worms and parasites through history"
+    excerpt: "The understanding of worms and parasites through history"
     url: "/talks/#verme-versus-vermiform-understanding-of-worms-and-parasites-through-history"
     btn_class: "btn--danger"
     btn_label: "Take a look"
@@ -78,7 +78,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/NEB.jpeg
     alt: "NEB Molecular Biology Summer Workshop"
-    excerpt: "I've been a lab instructor for the NEB Molecular Biology Summer Workshop since 2013. If you're interested in learning hands on molecular biology in two weeks, check it out!"
+    excerpt: "I've been a lab instructor for the New England Biolabs Molecular Biology Summer Workshop since 2013. If you're interested in learning hands on molecular biology in two weeks, check it out!"
     url: "https://www.neb.com/promoting-science-education/molecular-biology-summer-workshops"
     btn_class: "btn--primary"
     btn_label: "Learn more"
