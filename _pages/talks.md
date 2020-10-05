@@ -63,7 +63,7 @@ sidebar:
 - Audience: Undergraduate biology students
 - Venue: Ecology Methods class (Fordham University)
 - Given: March 2020
-- Note that some exercises for this lecture are demonstrated on a whiteboard, not shown in the powerpoint.
+- Note that some exercises for this lecture are demonstrated on a whiteboard and not shown in the powerpoint.
 
 ### How North America Gained and Lost Giant Sloths: And other stories of the formation of The Isthmus of Panama
 
