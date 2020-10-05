@@ -20,7 +20,7 @@ sidebar:
 
 # Diagnostics
 
-Diagnostic assays for marine mammal parasites can be used to diagnose animals in rehabilitation. Marine mammals, when sick, often become stranded on beaches and are taken in by rehabilitation facilities. Once diagnosed, they can be provided with specialized treatment plans and hopefully be released back into the wild once they have recovered. We design molecular diagnostic assays that are specific, sensitive, and as non-invasive to the animal as possible. Many of our assays rely on feces or sputum (although some require blood), which would make them ideal candidates for surveyin parasite infection levels in wild populations.
+Diagnostic assays for marine mammal parasites can be used to diagnose animals in rehabilitation. Marine mammals, when sick, often become stranded on beaches and are taken in by rehabilitation facilities. Once diagnosed, they can be provided with specialized treatment plans and hopefully be released back into the wild once they have recovered. We design molecular diagnostic assays that are specific, sensitive, and as non-invasive to the animal as possible. Many of our assays rely on feces or sputum (although some require blood), which would make them ideal candidates for surveying parasite infection levels in wild populations.
 
 ## Sea lion Lungworm
 
