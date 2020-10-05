@@ -4,9 +4,7 @@ permalink: /publications/
      
 hidden: true
 header:
-  #image: /assets/images/header.jpeg
-  #overlay_color: #"#5e616c"
-  #overlay_image: /assets/images/fog_road.jpeg
+  #image: /assets/images/headers/publications_splash-image.jpeg
 title: "  "
 tagline: "  "   
 author_profile: false
