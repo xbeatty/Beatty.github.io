@@ -8,7 +8,7 @@ header:
   #overlay_color: #"#5e616c"
   overlay_image: /assets/images/sea_lions.jpeg
 title: "Marine Mammal Parasite Projects"
-#tagline: "Molecular research and diagnostics of marine mammal nematodes"   
+tagline: "Molecular research and diagnostics of marine mammal nematodes"   
 author_profile: false
 read_time: true
 share: true
