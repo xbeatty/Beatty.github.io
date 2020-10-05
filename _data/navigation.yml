@@ -32,14 +32,14 @@ mmp_projects:
   - title: "Diagnostics"
     url: /projects_mmp/#diagnostics
     children:
-      - title: "Sea lion Lungworm"
+      - title: "Sea lion lungworm"
         url: /projects_mmp/#sea-lion-lungworm
-      - title: "Seal Heartworm"
+      - title: "Seal heartworm"
         url: /projects_mmp/#seal-heartworm
   - title: "Wolbachia Endosymbiont"
     url: /projects_mmp/#wolbachia-an-endosymbiont-of-nematodes
     children:
-      - title: "HGT"
+      - title: "Horizontal gene transfer"
         url: /projects_mmp/#horizontal-gene-transfer-hgt
         
 # Talks sidebar
