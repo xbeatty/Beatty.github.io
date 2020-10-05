@@ -43,7 +43,7 @@ In October of 2018, Canada Border Services Agency (CBSA) at Pearson Internationa
 
 ## iDNA for Biodiversity Surveys
 
-### Coming soon: Metabarcoding iDNA for Biodiversity Surveys Across the Indo Pacific
+### Coming soon: Metabarcoding iDNA for Biodiversity Surveys Across the Indo-Pacific
 
 iDNA biodiversity survey results from Bangladesh, Cambodia, China, and Madagascar that harness next-generation sequencing metabarcoding methods will be coming soon!
 
