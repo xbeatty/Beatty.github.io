@@ -1,18 +1,15 @@
 ---
-layout: splash
+layout: single
 permalink: /projects/
 hidden: true
 header:
-  image: /assets/images/projects_header.jpeg
-  #overlay_color: #"#5e616c"
-  #overlay_image: /assets/images/splash_2.jpeg
-  #actions:
-    #- label: "<i class='fas fa-download'></i> Install now"
-      #url: "/docs/quick-start-guide/"
-#title: "Research projects"
-#excerpt: >
-  #Research projects<br />
-#tagline: "Research projects"
+  overlay_image: /assets/images/headers/projects_single-overlay.jpeg
+title: "Research Projects"
+tagline: "Recent and ongoing research projects"
+author_profile: true
+read_time: true
+share: false
+classes: wide
 feature_row:
   - image_path: /assets/images/seal.jpeg
     alt: "marine mammal parasites"
