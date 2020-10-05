@@ -4,7 +4,7 @@ permalink: /publications/
      
 hidden: true
 header:
-  #image: /assets/images/headers/publications_splash-image.jpeg
+  image: /assets/images/headers/publications_splash-image.jpeg
 title: "  "
 tagline: "  "   
 author_profile: false
