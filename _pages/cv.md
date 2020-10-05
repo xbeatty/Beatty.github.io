@@ -5,10 +5,8 @@ class: wide
 header:
   overlay_image: /assets/images/headers/cv_single-overlay.jpeg
 title: "CV"
-tagline: " *Curriculum vitae* last updated September 2020
-
-
-"
+tagline: " *Curriculum vitae* last updated September 2020"
+read_time: true
 
 ---
 
