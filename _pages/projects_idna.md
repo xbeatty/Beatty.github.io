@@ -7,7 +7,7 @@ header:
   #overlay_color: #"#5e616c"
   overlay_image: /assets/images/medicinal_leeches.jpeg
 title: "iDNA Projects"
-tagline: "Using invertebrate-derived DNA for biodiversity surveys and forensic cases"   
+tagline: "Using iDNA for biodiversity surveys and forensic cases"   
 author_profile: false
 read_time: true
 share: true
