@@ -1,13 +1,14 @@
 ---
-layout: splash
-permalink: /publications/
-     
+layout: single
+permalink: /publications/   
 hidden: true
 header:
-  image: /assets/images/headers/publications_splash-image.jpeg
-title: "  "
-tagline: "  "   
-author_profile: false
+  overlay_image: /assets/images/headers/publications_single-overlay.jpeg
+title: " Publications "
+tagline: " Publications in peer-reviewed journals and newsletters "   
+author_profile: true
+read_time: true
+share: false
 classes: wide
     
 feature_row:
