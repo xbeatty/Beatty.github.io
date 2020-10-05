@@ -30,7 +30,7 @@ feature_row:
   - image_path: /assets/images/lion.jpeg
     alt: "future projects"
     #title: "Future Projects"
-    excerpt: "Charaterizing helminth and viral diversity in South African wildlife"
+    excerpt: "Characterizing helminth and viral diversity in South African wildlife"
     url: "/projects_sawp/"
     btn_class: "btn--warning"
     btn_label: "Learn more"
@@ -44,7 +44,7 @@ feature_row2:
     btn_label: "Take a look"
   - image_path: /assets/images/DCDH_ppt.png
     alt: "data"
-    excerpt: "Different Coasts and Different Hosts: seal lungworm speciation"
+    excerpt: "Different coasts and different hosts: seal lungworm speciation"
     url: "/talks/#different-coasts-and-different-hosts-is-the-seal-lungworm-otostrongylus-circumlitus-becoming-two-species"
     btn_class: "btn--danger"
     btn_label: "Take a look"
@@ -58,19 +58,19 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/FWTS_ppt.png
     alt: "map"
-    excerpt: "Fieldwork That Sucks (Literally): using iDNA for biodiversity surveys"
+    excerpt: "Fieldwork that sucks (literally): using iDNA for biodiversity surveys"
     url: "/talks/#fieldwork-that-sucks-literally"
     btn_class: "btn--success"
     btn_label: "Take a look"
   - image_path: /assets/images/SA_ppt.png
     alt: "exercise"
-    excerpt: "Bioinformatics: Sequence Alignment"
+    excerpt: "Bioinformatics: sequence alignment"
     url: "/talks/#sequence-alignment"
     btn_class: "btn--success"
     btn_label: "Take a look"
   - image_path: /assets/images/NAGS_ppt.png
     alt: "illustration"
-    excerpt: "How North America Gained and Lost Giant Sloths"
+    excerpt: "How North America gained and lost giant sloths"
     url: "/talks/#how-north-america-gained-and-lost-giant-sloths-and-other-stories-of-the-formation-of-the-isthmus-of-panama"
     btn_class: "btn--success"
     btn_label: "Take a look"
