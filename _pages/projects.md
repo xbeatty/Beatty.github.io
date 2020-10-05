@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/lion.jpeg
     alt: "future projects"
     #title: "Future Projects"
-    excerpt: "Charaterizing helminth and viral diversity in South African wildlife"
+    excerpt: "Characterizing helminth and viral diversity in South African wildlife"
     url: "/projects_sawp/"
     btn_class: "btn--warning"
     btn_label: "Learn more"      
