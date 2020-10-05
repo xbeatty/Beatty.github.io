@@ -65,13 +65,13 @@ feature_row3:
     btn_label: "Take a look"
   - image_path: /assets/images/SA_ppt.png
     alt: "exercise"
-    excerpt: "Sequence Alignment"
+    excerpt: "Bioinformatics: Sequence Alignment"
     url: "/talks/#sequence-alignment"
     btn_class: "btn--success"
     btn_label: "Take a look"
   - image_path: /assets/images/NAGS_ppt.png
     alt: "illustration"
-    excerpt: "How North America Gained and Lost Giant Sloths: And other stories of the formation of The Isthmus of Panama"
+    excerpt: "How North America Gained and Lost Giant Sloths"
     url: "/talks/#how-north-america-gained-and-lost-giant-sloths-and-other-stories-of-the-formation-of-the-isthmus-of-panama"
     btn_class: "btn--success"
     btn_label: "Take a look"
