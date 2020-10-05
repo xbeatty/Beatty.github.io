@@ -44,7 +44,7 @@ mmp_projects:
         
 # Talks sidebar
 talks:
-  - title: "Selected Talks"
+  - title: "Selected Talks and Lectures"
     url: /talks/#selected-talks-and-lectures
     children:
       - title: "iDNA for Forensics"
