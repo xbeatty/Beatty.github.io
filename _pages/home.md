@@ -45,13 +45,13 @@ feature_row2:
     btn_label: "Take a look"
   - image_path: /assets/images/DCDH_ppt.png
     alt: "data"
-    excerpt: "Different Coasts and Different Hosts: Is the seal lungworm *Otostrongylus circumlitus* becoming two species?"
+    excerpt: "Different Coasts and Different Hosts: seal lungworm speciation"
     url: "/talks/#different-coasts-and-different-hosts-is-the-seal-lungworm-otostrongylus-circumlitus-becoming-two-species"
     btn_class: "btn--danger"
     btn_label: "Take a look"
   - image_path: /assets/images/VVV_ppt.png
     alt: "bestiary parasites"
-    excerpt: "*Verme* versus Vermiform: Understanding of worms and parasites through history"
+    excerpt: "Understanding of worms and parasites through history"
     url: "/talks/#verme-versus-vermiform-understanding-of-worms-and-parasites-through-history"
     btn_class: "btn--danger"
     btn_label: "Take a look"
@@ -59,7 +59,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/FWTS_ppt.png
     alt: "map"
-    excerpt: "Fieldwork That Sucks (Literally)"
+    excerpt: "Fieldwork That Sucks (Literally): using iDNA for biodiversity surveys"
     url: "/talks/#fieldwork-that-sucks-literally"
     btn_class: "btn--success"
     btn_label: "Take a look"
