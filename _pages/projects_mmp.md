@@ -4,7 +4,7 @@ layout: single
 permalink: /projects_mmp/
 hidden: true
 header:
-  overlay_image: /assets/images/headers/mmp_single-overlay1.jpeg
+  overlay_image: /assets/images/headers/mmp_single-overlay.jpeg
 title: "Marine Mammal Parasite Projects"
 tagline: "Molecular evolution and diagnostics of nematodes"   
 author_profile: false
