@@ -36,19 +36,19 @@ feature_row:
     btn_label: "Learn more"
     
 feature_row2:
-  - image_path: /assets/images/WSCL_ppt.png
+  - image_path: /assets/images/ppts/WSCL_ppt.png
     alt: "map"
     excerpt: "Caught red handed: iDNA points to wild source of contraband leeches"
     url: "/talks/#caught-red-handed-idna-points-to-wild-source-of-contraband-leeches"
     btn_class: "btn--danger"
     btn_label: "Take a look"
-  - image_path: /assets/images/DCDH_ppt.png
+  - image_path: /assets/images/ppts/DCDH_ppt.png
     alt: "data"
     excerpt: "Different coasts and different hosts: seal lungworm speciation"
     url: "/talks/#different-coasts-and-different-hosts-is-the-seal-lungworm-otostrongylus-circumlitus-becoming-two-species"
     btn_class: "btn--danger"
     btn_label: "Take a look"
-  - image_path: /assets/images/VVV_ppt.png
+  - image_path: /assets/images/ppts/VVV_ppt.png
     alt: "bestiary parasites"
     excerpt: "The understanding of worms and parasites through history"
     url: "/talks/#verme-versus-vermiform-understanding-of-worms-and-parasites-through-history"
@@ -56,19 +56,19 @@ feature_row2:
     btn_label: "Take a look"
     
 feature_row3:
-  - image_path: /assets/images/FWTS_ppt.png
+  - image_path: /assets/images/ppts/FWTS_ppt.png
     alt: "map"
     excerpt: "Fieldwork that sucks (literally): using iDNA for biodiversity surveys"
     url: "/talks/#fieldwork-that-sucks-literally"
     btn_class: "btn--success"
     btn_label: "Take a look"
-  - image_path: /assets/images/SA_ppt.png
+  - image_path: /assets/images/ppts/SA_ppt.png
     alt: "exercise"
     excerpt: "Bioinformatics: sequence alignment"
     url: "/talks/#sequence-alignment"
     btn_class: "btn--success"
     btn_label: "Take a look"
-  - image_path: /assets/images/NAGS_ppt.png
+  - image_path: /assets/images/ppts/NAGS_ppt.png
     alt: "illustration"
     excerpt: "How North America gained and lost giant sloths"
     url: "/talks/#how-north-america-gained-and-lost-giant-sloths-and-other-stories-of-the-formation-of-the-isthmus-of-panama"
