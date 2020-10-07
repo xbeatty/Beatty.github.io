@@ -10,8 +10,8 @@ main:
     url: /publications/
   - title: "CV"
     url: /cv/
-  #- title: "Photography"
-    #url: /photography/
+  - title: "Photography"
+    url: /photography/
   #- title: "Games"
     #url: /games/
     
