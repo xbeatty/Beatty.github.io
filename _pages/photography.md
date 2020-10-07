@@ -26,13 +26,15 @@ gallery:
     title: "Helicarionidae, Kalani Williams 2019, Vakôna Forest, Andasibe, Madagascar, SONY DSC-HX400V (16mm)"
   - url: /assets/images/gallery/grasshopper.jpeg
     image_path: /assets/images/gallery/grasshopper.jpeg
-    title: "Grasshoppers, Kalani Williams 2019, Andasibe, Madagascar, SONY DSC-HX400V (20mm)"
+    title: "Spur-throated grasshoppers, Kalani Williams 2019, Andasibe, Madagascar, SONY DSC-HX400V (20mm)"
   - url: /assets/images/gallery/nile_crocodile.jpeg
     image_path: /assets/images/gallery/nile_crocodile.jpeg
     title: "Nile crocodile (Crocodylus niloticus), Kalani Williams 2019, Vakôna Forest, Andasibe, Madagascar, SONY DSC-HX400V (215mm)"
   
 ---
 
-# Andasibe, Madagascar (March 2019)
+Check out my [iNaturalist](https://www.inaturalist.org/observations?place_id=any&subview=grid&user_id=kalani3) and [Instagram](https://www.instagram.com/iguanaonarock/) for more photos.
 
-{% include gallery %}
+# Madagascar (March 2019)
+
+{% include gallery caption= "Click on photos for larger view and further information." %}
