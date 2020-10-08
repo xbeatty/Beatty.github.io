@@ -56,6 +56,12 @@ gallery2:
   - url: /assets/images/gallery/tz17/eroller.jpeg
     image_path: /assets/images/gallery/tz17/eroller.jpeg
     title: "European roller (Coracias garrulus), Kalani Williams, March 2017, Serengeti National Park, Tanzania, Canon PowerShot SX50 HS (215mm)"
+  - url: /assets/images/gallery/tz17/mountkilimanjaro.jpeg
+    image_path: /assets/images/gallery/tz17/mountkilimanjaro.jpeg
+    title: "Mount Kilimanjaro, Kalani Williams, March 2017, Kilimanjaro National Park (near Shira 1 base camp), Tanzania, Canon PowerShot SX50 HS (15mm)"
+  - url: /assets/images/gallery/tz17/agama.jpeg
+    image_path: /assets/images/gallery/tz17/agama.jpeg
+    title: "Rock agama mating display, Kalani Williams, March 2017, Enashiva Nature Refuge, Tanzania, Canon PowerShot SX50 HS (50mm)"
   - url: /assets/images/gallery/tz17/tsun.jpeg
     image_path: /assets/images/gallery/tz17/tsun.jpeg
     title: "Sunrise, Kalani Williams, March 2017, Sinya, Tanzania, Canon PowerShot SX50 HS (204mm)"
@@ -63,17 +69,11 @@ gallery2:
     image_path: /assets/images/gallery/tz17/tmoon.jpeg
     title: "Moon, Kalani Williams, March 2017, Shumata Camp, Tanzania, Canon PowerShot SX50 HS (215mm)"
   - url: /assets/images/gallery/tz17/giraffes.jpeg
-    image_path: /assets/images/gallery/tz17/giraffe.jpeg
+    image_path: /assets/images/gallery/tz17/giraffes.jpeg
     title: "Giraffes on the ridges surrounding Ngorongoro Crater, Kalani Williams, March 2017, Ngorongoro Crater, Tanzania, Canon PowerShot SX50 HS (22mm)"
   - url: /assets/images/gallery/tz17/giraffe_face.jpeg
     image_path: /assets/images/gallery/tz17/giraffe_face.jpeg
     title: "Giraffe profile, Kalani Williams, March 2017, Momella, Tanzania, Canon PowerShot SX50 HS (77mm)"
-  - url: /assets/images/gallery/tz17/mountkilimanjaro.jpeg
-    image_path: /assets/images/gallery/tz17/mountkilimanjaro.jpeg
-    title: "Mount Kilimanjaro, Kalani Williams, March 2017, Kilimanjaro National Park (near Shira 1 base camp), Tanzania, Canon PowerShot SX50 HS (15mm)"
-  - url: /assets/images/gallery/tz17/agama.jpeg
-    image_path: /assets/images/gallery/tz17/agama.jpeg
-    title: "Rock agama mating display, Kalani Williams, March 2017, Enashiva Nature Refuge, Tanzania, Canon PowerShot SX50 HS (50mm)"
   - url: /assets/images/gallery/tz17/villageweaver.jpeg
     image_path: /assets/images/gallery/tz17/villageweaver.jpeg
     title: "Village weaver (Ploceus cucullatus), Kalani Williams, March 2017, Ngorongoro Crater, Tanzania, Canon PowerShot SX50 HS (133mm)"
