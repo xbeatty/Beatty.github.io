@@ -3,8 +3,7 @@ layout: single
 permalink: /games/
 class: wide
 header:
-  #find a new gaming image
-  overlay_image: /assets/images/headers/photography_single-overlay.jpeg
+  #overlay_image: /assets/images/headers/photography_single-overlay.jpeg
 title: "Games"
 #tagline: ""
 read_time: true
