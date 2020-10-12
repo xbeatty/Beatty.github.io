@@ -41,19 +41,19 @@ feature_row2:
     excerpt: "Caught red handed: iDNA points to wild source of contraband leeches"
     url: "/talks/#caught-red-handed-idna-points-to-wild-source-of-contraband-leeches"
     btn_class: "btn--danger"
-    btn_label: "Take a look"
+    btn_label: "View slides"
   - image_path: /assets/images/ppts/DCDH_ppt.png
     alt: "data"
     excerpt: "Different coasts and different hosts: seal lungworm speciation"
     url: "/talks/#different-coasts-and-different-hosts-is-the-seal-lungworm-otostrongylus-circumlitus-becoming-two-species"
     btn_class: "btn--danger"
-    btn_label: "Take a look"
+    btn_label: "View slides"
   - image_path: /assets/images/ppts/VVV_ppt.png
     alt: "bestiary parasites"
     excerpt: "The understanding of worms and parasites through history"
     url: "/talks/#verme-versus-vermiform-understanding-of-worms-and-parasites-through-history"
     btn_class: "btn--danger"
-    btn_label: "Take a look"
+    btn_label: "View slides"
     
 feature_row3:
   - image_path: /assets/images/ppts/FWTS_ppt.png
@@ -61,24 +61,24 @@ feature_row3:
     excerpt: "Fieldwork that sucks (literally): using iDNA for biodiversity surveys"
     url: "/talks/#fieldwork-that-sucks-literally"
     btn_class: "btn--success"
-    btn_label: "Take a look"
+    btn_label: "View slides"
   - image_path: /assets/images/ppts/SA_ppt.png
     alt: "exercise"
     excerpt: "Bioinformatics: sequence alignment"
     url: "/talks/#sequence-alignment"
     btn_class: "btn--success"
-    btn_label: "Take a look"
+    btn_label: "View slides"
   - image_path: /assets/images/ppts/NAGS_ppt.png
     alt: "illustration"
     excerpt: "How North America gained and lost giant sloths"
     url: "/talks/#how-north-america-gained-and-lost-giant-sloths-and-other-stories-of-the-formation-of-the-isthmus-of-panama"
     btn_class: "btn--success"
-    btn_label: "Take a look"
+    btn_label: "View slides"
     
 feature_row4:
   - image_path: /assets/images/NEB.jpeg
     alt: "NEB Molecular Biology Summer Workshop"
-    excerpt: "I've been a lab instructor for the New England Biolabs Molecular Biology Summer Workshop since 2013. If you're interested in learning hands on molecular biology in two weeks, check it out!"
+    excerpt: "I've been a lab instructor for the New England Biolabs Molecular Biology Summer Workshop since 2013. If you're interested in learning hands on molecular biology in two weeks, check it out! (Pictured: Kareen Seignon, session '18)"
     url: "https://www.neb.com/promoting-science-education/molecular-biology-summer-workshops"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -86,7 +86,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/teaching.jpeg
     alt: "Teaching in classroom"
-    excerpt: "At Fordham University and Smith College I have been a teaching assistant and lab instructor for several courses."
+    excerpt: "At Fordham University and Smith College I have been a teaching assistant and lab instructor for several courses. (Pictured: Kalani Williams identifying skulls with four Fordham University students)"
     url: "/teaching/#undergraduate-laboratory-instruction-and-teaching-assistantships"
     btn_class: "btn--primary"
     btn_label: "Learn more"
