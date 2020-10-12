@@ -76,10 +76,10 @@ gallery2:
     title: "Giraffe profile, Kalani Williams, March 2017, Momella, Tanzania, Canon PowerShot SX50 HS (77mm)"
   - url: /assets/images/gallery/tz17/villageweaver.jpeg
     image_path: /assets/images/gallery/tz17/villageweaver.jpeg
-    title: "Village weaver (Ploceus cucullatus), Kalani Williams, March 2017, Ngorongoro Crater, Tanzania, Canon PowerShot SX50 HS (133mm)"
+    title: "Vitelline masked-weaver (Ploceus vitellinus), Kalani Williams, March 2017, Ngorongoro Crater, Tanzania, Canon PowerShot SX50 HS (133mm)"
   - url: /assets/images/gallery/tz17/villageweaverpreen.jpeg
     image_path: /assets/images/gallery/tz17/villageweaverpreen.jpeg
-    title: "Village weaver preening, Kalani Williams, March 2017, Ngorongoro Crater, Tanzania, Canon PowerShot SX50 HS (193mm)"
+    title: "Vitelline masked-weaver preening, Kalani Williams, March 2017, Ngorongoro Crater, Tanzania, Canon PowerShot SX50 HS (193mm)"
   - url: /assets/images/gallery/tz17/fiscal.jpeg
     image_path: /assets/images/gallery/tz17/fiscal.jpeg
     title: "Northern fiscal (Lanius humeralis), Kalani Williams, March 2017, Ngorongoro Crater, Tanzania, Canon PowerShot SX50 HS (149mm)"
