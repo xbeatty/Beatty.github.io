@@ -132,9 +132,9 @@ feature_row7:
     btn_label: "Go to newsletter"
     
 feature_row8:
-  - image_path: /assets/images/KW_CV_092220.png
+  - image_path: /assets/images/KW_CV.png
     alt: "CV"
-    excerpt: "CV last updated 09/22/20"
+    excerpt: "CV last updated 01/21/2021"
     url: "/cv/"
     btn_class: "btn--primary"
     btn_label: "View full"
