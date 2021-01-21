@@ -107,9 +107,9 @@ feature_row6:
   - image_path: /assets/images/pubs/Fahmy2020.png
     alt: "Fahmy2020"
     excerpt: "Fahmy et al., 2020"
-    url: "/#publications"
+    url: "https://doi.org/10.1645/19-189"
     btn_class: "btn--primary"
-    btn_label: "Coming soon"
+    btn_label: "Go to paper"
     
 feature_row7:
   - image_path: /assets/images/pubs/Keroack2018.png
