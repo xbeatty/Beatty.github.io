@@ -27,9 +27,9 @@ feature_row:
   - image_path: /assets/images/pubs/Fahmy2020.png
     alt: "Fahmy2020"
     excerpt: "Fahmy et al., 2020"
-    url: "/#publications"
+    url: "https://doi.org/10.1645/19-189"
     btn_class: "btn--primary"
-    btn_label: "Coming soon"
+    btn_label: "Go to paper"
     
 feature_row2:
   - image_path: /assets/images/pubs/Keroack2018.png
@@ -53,7 +53,7 @@ feature_row2:
  
 ---
 
-Click here to see my publications on [Google Scholar](https://scholar.google.com/citations?user=4LCDPcUAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Kalani_Williams/publications)!
+Click here to see my publications on [Google Scholar](https://scholar.google.com/citations?user=4LCDPcUAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Kalani_Williams/publications)!
 
 {% include feature_row %}
 
