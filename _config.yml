@@ -121,10 +121,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "xuan.ly.cu@gmail.com"
+      url: "xuan.ly.cu@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://xbeatty.github.io/"
+      url: "https://xbeatty.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/xuan-beatty/" # OPTIONAL
@@ -141,10 +141,10 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "xuan.ly.cu@gmail.com"
+      url: "xuan.ly.cu@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://xbeatty.github.io/"
+      url: "https://xbeatty.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/xuan-beatty/" # OPTIONAL
