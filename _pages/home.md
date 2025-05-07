@@ -13,34 +13,34 @@ author_profile: true
 classes: wide
    
 feature_row1:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: Beaker.jpg # no quotes this time
     alt: "Resources"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "The type of research I perform"
     url: "/resources/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "All you need to know"
     
 feature_row2:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: CSU.jpg # no quotes this time
     alt: "Lectures"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Key Topic to know"
     url: "/lectures/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Endless Information"
     
 feature_row3:
-  - image_path: path_to_your_image.png # no quotes this time
-    alt: "Image Analysis Project"
+  - image_path: Dogs.jpg # no quotes this time
+    alt: "Project Analysis"
     excerpt: "Enter a relatively short description here"
-    url: "/image_analysis_project/" # note that these can also be full urls that take people to other sites
+    url: "/project_analysis/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say"
 
 feature_row4:
-  - image_path: path_to_your_image.png # no quotes this time
-    alt: "ggplot Project"
+  - image_path: Boulder.jpg # no quotes this time
+    alt: "Background"
     excerpt: "Enter a relatively short description here"
-    url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
+    url: "Background" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say" 
 ---
@@ -55,10 +55,10 @@ Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-Univer
 
 {% include feature_row id="feature_row2" type= "left" %}
 
-# Image Analysis Project
+# Project Analysis
 
 {% include feature_row id="feature_row3" type= "left" %}
 
-# ggplot Project
+# Background
 
 {% include feature_row id="feature_row4" type= "left" %}
