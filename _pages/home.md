@@ -13,7 +13,7 @@ author_profile: true
 classes: wide
    
 feature_row1:
-  - image_path: Beaker.jpg # no quotes this time
+  - image_path: assets/Images/Beaker.jpg # no quotes this time
     alt: "Resources"
     excerpt: "The type of research I perform"
     url: "/resources/" # note that these can also be full urls that take people to other sites
@@ -21,7 +21,7 @@ feature_row1:
     btn_label: "All you need to know"
     
 feature_row2:
-  - image_path: CSU.jpg # no quotes this time
+  - image_path: assets/Images/CSU.jpg # no quotes this time
     alt: "Lectures"
     excerpt: "Key Topic to know"
     url: "/lectures/" # note that these can also be full urls that take people to other sites
@@ -29,7 +29,7 @@ feature_row2:
     btn_label: "Endless Information"
     
 feature_row3:
-  - image_path: Dogs.jpg # no quotes this time
+  - image_path: assets/Images/Dogs.jpg # no quotes this time
     alt: "Project Analysis"
     excerpt: "Enter a relatively short description here"
     url: "/project_analysis/" # note that these can also be full urls that take people to other sites
@@ -37,7 +37,7 @@ feature_row3:
     btn_label: "Whatever you want your button to say"
 
 feature_row4:
-  - image_path: Boulder.jpg # no quotes this time
+  - image_path: assets/Images/Boulder.jpg # no quotes this time
     alt: "Background"
     excerpt: "Enter a relatively short description here"
     url: "Background" # note that these can also be full urls that take people to other sites
