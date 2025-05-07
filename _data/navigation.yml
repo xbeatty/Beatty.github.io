@@ -4,7 +4,7 @@ main:
     url: /resources/
   - title: "Lectures"
     url: /lectures/
-  - title: "Image Analysis Project"
+  - title: "Project Analysis"
     url: /image_analysis_project/
-  - title: "ggplot Project"
+  - title: "Background"
     url: /ggplot_project/
