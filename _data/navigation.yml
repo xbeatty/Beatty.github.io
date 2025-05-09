@@ -1,10 +1,59 @@
 # main links
 main:
-  - title: "Resources"
-    url: /resources/
-  - title: "Lectures"
-    url: /lectures/
-  - title: "Project Analysis"
-    url: /image_analysis_project/
-  - title: "Background"
-    url: /ggplot_project/
+  - title: "Projects"
+    url: /projects/
+  - title: "Profile"
+    url: /profile/
+  - title: "Skills"
+    url: /skills/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/
+  - title: "Patent"
+    url: /patent/
+    
+# iDNA projects sidebar
+#idna_projects:
+  #- title: "What is iDNA?"
+    #url: /projects_idna/#what-is-idna
+  #- title: "Projects"
+    #url: /projects_idna/#projects
+    #children:
+     #- title: "iDNA for Forensics"
+       #url: /projects_idna/#idna-for-forensics
+     #- title: "iDNA for Biodiversity Surveys"
+       #url: /projects_idna/#idna-for-biodiversity-surveys
+
+# MMP projects sidebar
+#mmp_projects:
+  #- title: "Diagnostics"
+    #url: /projects_mmp/#diagnostics
+    #children:
+      #- title: "Sea lion lungworm"
+        #url: /projects_mmp/#sea-lion-lungworm
+      #- title: "Seal heartworm"
+        #url: /projects_mmp/#seal-heartworm
+  #- title: "Wolbachia Endosymbiont"
+    #url: /projects_mmp/#wolbachia-an-endosymbiont-of-nematodes
+    #children:
+      #- title: "Horizontal gene transfer"
+        #url: /projects_mmp/#horizontal-gene-transfer-hgt
+        
+# Talks sidebar
+#talks:
+  #- title: "Selected Talks and Lectures"
+    #url: /talks/#selected-talks-and-lectures
+    #children:
+      #- title: "iDNA for Forensics"
+        #url: /talks/#caught-red-handed-idna-points-to-wild-source-of-contraband-leeches
+      #- title: "Marine Mammal Parasite Evolution"
+        #url: /talks/#different-coasts-and-different-hosts-is-the-seal-lungworm-otostrongylus-circumlitus-becoming-two-species
+      #- title: "Art History of Parasites"
+        #url: /talks/#verme-versus-vermiform-understanding-of-worms-and-parasites-through-history
+      #- title: "iDNA for Biodiversity Surveys"
+        #url: /talks/#fieldwork-that-sucks-literally
+      #- title: "Bioinformatics: Sequence Alignment"
+        #url: /talks/#sequence-alignment
+      #- title: "Panama and Mammalian Evolution"
+        #url: /talks/#how-north-america-gained-and-lost-giant-sloths-and-other-stories-of-the-formation-of-the-isthmus-of-panama
