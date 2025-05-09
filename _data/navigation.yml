@@ -10,8 +10,8 @@ main:
     url: /publications/
   - title: "CV"
     url: /cv/
-  - title: "Patent"
-    url: /patent/
+  - title: "Patents"
+    url: /patents/
     
 # iDNA projects sidebar
 #idna_projects:
