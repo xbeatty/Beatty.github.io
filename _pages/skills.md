@@ -6,9 +6,7 @@ header:
   overlay_image: /assets/images/headers/teaching_single-overlay.jpeg
 title: "Laboratory and Executive Skills"
 #tagline: "Laboratory instruction and teaching assistantships at New England Biolabs, Fordham University, and Smith College"
-
-
-"   
+ 
 author_profile: true
 read_time: true
 share: false
