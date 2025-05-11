@@ -3,7 +3,7 @@ layout: single
 permalink: /publications/   
 hidden: true
 header:
-  overlay_image: /assets/images/headers/publications_single-overlay.jpeg
+  overlay_image: /assets/Images/headers/publications_single-overlay.jpeg
 title: " Publications "
 tagline: " Publications in peer-reviewed journals "   
 author_profile: true
@@ -18,7 +18,7 @@ feature_row:
     url: "https://doi.org/10.1158/1078-0432.CCR-20-3139"
     btn_class: "btn--primary"
     btn_label: "Go to paper"
-  - image_path: /assets/Images/2018.png
+  - image_path: ../assets/Images/2018.png
     alt: "2018"
     excerpt: "Seto et al., 2018"
     url: "https://doi.org/10.1111/bjh.15547"
