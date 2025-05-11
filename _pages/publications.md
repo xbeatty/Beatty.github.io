@@ -2,8 +2,6 @@
 layout: single
 permalink: /publications/   
 hidden: true
-header:
-  overlay_image: /assets/Images/headers/publications_single-overlay.jpeg
 title: " Publications "
 tagline: " Publications in peer-reviewed journals "   
 author_profile: true
