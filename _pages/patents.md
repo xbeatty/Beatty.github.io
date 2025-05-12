@@ -22,6 +22,7 @@ feature_row:
     url: "https://patents.justia.com/patent/20180127750"
     btn_class: "btn--primary"
     btn_label: "Go to patent"
+
  
 ---
 {% include feature_row %}
