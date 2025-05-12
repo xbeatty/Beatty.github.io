@@ -23,7 +23,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to patent"
 
- 
 ---
 {% include feature_row %}
 
