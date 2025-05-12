@@ -2,8 +2,8 @@
 main:
   - title: "Projects"
     url: /projects/
-  - title: "Profile"
-    url: /profile/
+  - title: "Background"
+    url: /background/
   - title: "Skills"
     url: /skills/
   - title: "Publications"
