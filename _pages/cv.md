@@ -3,7 +3,7 @@ layout: single
 permalink: /cv/
 class: wide
 header:
-  overlay_image: /assets/Images/cv.jpg
+  overlay_image: /assets/Images/flowers2.jpg
 title: "CV"
 tagline: " *Curriculum vitae* last updated May 2025"
 read_time: true
