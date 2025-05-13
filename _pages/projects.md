@@ -14,7 +14,7 @@ classes: wide
 
 ---
 
-### Colorado State University
+### COLORADO STATE UNIVERSITY
 
 Currently, enrolled in the Cell and Molecular Biology PhD program at CSU in Dawn Duval's lab studying cancer biology in canines. 
 
@@ -22,7 +22,7 @@ Currently, enrolled in the Cell and Molecular Biology PhD program at CSU in Dawn
 
 Performed experiments to generate new viral vectors into cells/yeast to create different types of viruses. After which, expanded the virus to make viral seed stocks (VSS) to be used in large scale manufacturing (GMP). Simultaneously, I characterized the different viruses by transducing cells/yeast to perform multiplicity of infection (MOI) studies, then performed titer on the samples via either qPCR or protein detection. Along with these tasks, I was instrumental in qualifying and transferring the analytical methods for the company’s new mRNA platform to the QC department by creating SOPs for guidance. 
 
-### Revvity
+### REVVITY
 
 Researched and developed, or improved upon, innovative new technologies for CRISPR Cas9 systems. Lost position due to slow sales resulting from COVID-19 shutdowns.
 
