@@ -44,15 +44,15 @@ feature_row4:
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Learn More"
 
-    feature_row5:
+feature_row5:
   - image_path: assets/Images/cv.jpg # no quotes this time
     alt: "CV"
-    excerpt: "CV/Resume"
-    url: "/CV/" # note that these can also be full urls that take people to other sites
+    excerpt: " CV/Resume"
+    url: "/cv/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Learn More"
 
-       feature_row6:
+feature_row6:
   - image_path: assets/Images/patent.jpg # no quotes this time
     alt: "Patents"
     excerpt: "Patents"
