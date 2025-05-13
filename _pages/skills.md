@@ -3,9 +3,9 @@ layout: single
 permalink: /skills/
 hidden: true
 header:
-  overlay_image: /assets/Images/headers/Beaker.jpg
+  overlay_image: /assets/Images/Beaker.jpg
 title: "Laboratory and Executive Skills"
-#tagline: "Laboratory instruction and teaching assistantships at New England Biolabs, Fordham University, and Smith College"
+#tagline: "Skill I have aquired throughout the years."
  
 author_profile: true
 read_time: true
