@@ -3,7 +3,7 @@ layout: single
 permalink: /projects/
 hidden: true
 header:
-  overlay_image: /assets/images/headers/teaching_single-overlay.jpeg
+  overlay_image: /assets/Images/CSU.jpg
 title: "Projects"
 #tagline: " Past and Ongoing "
  
