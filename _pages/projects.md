@@ -34,3 +34,6 @@ Research and development of an oncology drug that is currently in phase 2 clinic
 
 Created a transgenic mouse with a Cre-Lox insert which is activated by administration of tamoxifen to examine the effects of Multiple Sclerosis at different stages of development. Carried out clinical trials and managed patient records for a Multiple Sclerosis clinic.
 
+---
+
+{% include feature_row %}
