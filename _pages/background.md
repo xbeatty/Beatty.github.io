@@ -2,7 +2,7 @@
 layout: single
 permalink: /background/
 hidden: true
-#header:
+header:
   overlay_image: /assets/Images/Me.jpg
 title: "My Background"
 #tagline: "All about me"
@@ -18,4 +18,4 @@ My experience ranges from working with the building blocks of life such as DNA, 
 
 ---
 
-#{% include feature_row %}
+{% include feature_row %}
