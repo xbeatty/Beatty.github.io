@@ -21,7 +21,7 @@ feature_row1:
     btn_label: "Learn More"
     
 feature_row2:
-  - image_path: assets/Images/me.jpg # no quotes this time
+  - image_path: assets/Images/Me.jpg # no quotes this time
     alt: "Background"
     excerpt: "About Myself"
     url: "/background/" # note that these can also be full urls that take people to other sites
