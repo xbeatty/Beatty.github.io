@@ -3,7 +3,7 @@ layout: single
 permalink: /background/
 hidden: true
 header:
-  overlay_image: /assets/Images/Me.jpg
+  overlay_image: /assets/Images/flowers.jpg
 title: "My Background"
 #tagline: "All about me"
  
