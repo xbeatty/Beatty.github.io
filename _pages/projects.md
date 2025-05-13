@@ -3,7 +3,7 @@ layout: single
 permalink: /projects/
 hidden: true
 header:
-  overlay_image: /assets/Images/flowers3.jpg
+  overlay_image: /assets/Images/flowers4.jpg
 title: "Projects"
 #tagline: " Past and Ongoing "
  
