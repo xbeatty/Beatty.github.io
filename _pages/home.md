@@ -63,18 +63,26 @@ feature_row4:
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
 
-# Resources
+# Projects
 
 {% include feature_row id="feature_row1" type= "left" %}
 
-# Lectures
+# Background
 
 {% include feature_row id="feature_row2" type= "left" %}
 
-# Project Analysis
+# Skills
 
 {% include feature_row id="feature_row3" type= "left" %}
 
-# Background
+# Publications
 
 {% include feature_row id="feature_row4" type= "left" %}
+
+# CV
+
+{% include feature_row id="feature_row5" type= "left" %}
+
+# Patent
+
+{% include feature_row id="feature_row6" type= "left" %}
