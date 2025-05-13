@@ -16,7 +16,7 @@ classes: wide
 
 ### Colorado State University
 
-Currently, enrolled in the Cell and Molecular Biology PhD program at CSU in Dawn Duval's lab. Studying, cancer biology in canines. 
+Currently, enrolled in the Cell and Molecular Biology PhD program at CSU in Dawn Duval's lab studying cancer biology in canines. 
 
 ### IMMUNITYBIO INC.
 
