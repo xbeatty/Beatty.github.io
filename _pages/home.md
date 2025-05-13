@@ -13,36 +13,52 @@ author_profile: true
 classes: wide
    
 feature_row1:
-  - image_path: assets/Images/Beaker.jpg # no quotes this time
-    alt: "Resources"
-    excerpt: "The type of research I perform"
-    url: "/resources/" # note that these can also be full urls that take people to other sites
+  - image_path: assets/Images/CSU.jpg # no quotes this time
+    alt: "Projects"
+    excerpt: "My research"
+    url: "/projects/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "All you need to know"
+    btn_label: "Learn More"
     
 feature_row2:
-  - image_path: assets/Images/CSU.jpg # no quotes this time
-    alt: "Lectures"
-    excerpt: "Key Topic to know"
-    url: "/lectures/" # note that these can also be full urls that take people to other sites
+  - image_path: assets/Images/me.jpg # no quotes this time
+    alt: "Background"
+    excerpt: "About Myself"
+    url: "/background/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Endless Information"
+    btn_label: "Learn More"
     
 feature_row3:
-  - image_path: assets/Images/Dogs.jpg # no quotes this time
-    alt: "Project Analysis"
-    excerpt: "Enter a relatively short description here"
-    url: "/project_analysis/" # note that these can also be full urls that take people to other sites
+  - image_path: assets/Images/Beaker.jpg # no quotes this time
+    alt: "Skills"
+    excerpt: "Laboratory and Executive Skills"
+    url: "/skills/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Learn More"
 
 feature_row4:
   - image_path: assets/Images/Boulder.jpg # no quotes this time
-    alt: "Background"
-    excerpt: "Enter a relatively short description here"
-    url: "Background" # note that these can also be full urls that take people to other sites
+    alt: "Publications"
+    excerpt: " Published manuscript (Note: some publications listed under maiden name Ly)"
+    url: "/publications/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say" 
+    btn_label: "Learn More"
+
+    feature_row5:
+  - image_path: assets/Images/cv.jpg # no quotes this time
+    alt: "CV"
+    excerpt: "CV"
+    url: "/cv/" # note that these can also be full urls that take people to other sites
+    btn_class: "btn--inverse" # feel free to change the button style!
+    btn_label: "Learn More"
+
+       feature_row6:
+  - image_path: assets/Images/patent.jpg # no quotes this time
+    alt: "Patents"
+    excerpt: "Patents"
+    url: "/patents/" # note that these can also be full urls that take people to other sites
+    btn_class: "btn--inverse" # feel free to change the button style!
+    btn_label: "Learn More" 
 ---
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
