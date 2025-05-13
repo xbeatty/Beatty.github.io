@@ -26,6 +26,12 @@ classes: wide
   - Developed a protocol for assessing proliferation and apoptosis over time in different cell lines, with time points going out to 2 weeks post treatment. 
   - Use of Flow to examine different cell populations and their phenotypic changes over time with treatment.
 
+- Genetic Engineering and DNA Manipulation 
+  - Insertion and deletions of gene sequences using restriction enzymes and ligase or Gibson assembly. 
+  - Amplify DNA segment of interest using PCR techniques and/or cloning it into bacteria. 
+  - In depth understanding of CRISPR-Cas9 systems, analyzing indels using T7E1 and TIDE, as well as using sequencing to examine insertions and deletions.
+
+
 
 ### Programs and Instruments
 
