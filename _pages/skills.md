@@ -3,7 +3,7 @@ layout: single
 permalink: /skills/
 hidden: true
 header:
-  overlay_image: /assets/images/headers/teaching_single-overlay.jpeg
+  overlay_image: /assets/Images/headers/Beaker.jpg
 title: "Laboratory and Executive Skills"
 #tagline: "Laboratory instruction and teaching assistantships at New England Biolabs, Fordham University, and Smith College"
  
@@ -32,3 +32,8 @@ classes: wide
 - Microscopy: Light, Florescent, Dissecting Microscopes, Confocal, etc.
 - Use of multiple laboratory equipment: nanodrop, plate readers, Viia7, Cytoflex, BioRad chemidoc, thermocycler, liquid handlers, Nexcelom, Nova, Countess, etc.
 - Programs: MS Word, Excel, PowerPoint, Outlook, GraphPad, FlowJo, ImageJ, electronic notebooks, Google Docs, MatLab, etc.
+
+
+---
+
+{% include feature_row %}
