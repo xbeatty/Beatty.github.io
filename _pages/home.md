@@ -23,7 +23,7 @@ feature_row1:
 feature_row2:
   - image_path: assets/Images/Me.jpg # no quotes this time
     alt: "Background"
-    excerpt: "About Myself"
+    excerpt: "About Me"
     url: "/background/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Learn More"
@@ -79,10 +79,11 @@ Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-Univer
 
 {% include feature_row id="feature_row4" type= "left" %}
 
+
 # CV
 
 {% include feature_row id="feature_row5" type= "left" %}
 
-# Patent
+# Patents
 
 {% include feature_row id="feature_row6" type= "left" %}
