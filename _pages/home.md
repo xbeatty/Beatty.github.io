@@ -45,7 +45,7 @@ feature_row4:
     btn_label: "Learn More"
 
 feature_row5:
-  - image_path: assets/Images/cv.jpg # no quotes this time
+  - image_path: assets/Images/XuanBeattyResume.png # no quotes this time
     alt: "CV"
     excerpt: " CV/Resume"
     url: "/cv/" # note that these can also be full urls that take people to other sites
